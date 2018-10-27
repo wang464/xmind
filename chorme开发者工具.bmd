@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>
+    </author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="chorme开发者工具" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>Black</line_color>
+        <border_color>#599764</border_color>
+        <node_back_color>#A2C8A9</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>#599764</select_color>
+        <hover_color>#599764</hover_color>
+        <link_line_color>#599764</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="0ss017ktfjtul58otknf0g7khb" text="chorme开发者工具" x="858" y="384" width="176" height="28" text_b="0, 0, 176, 28">
+          <style>
+            <back_color>#599764</back_color>
+            <fore_color>White</fore_color>
+            <border_color>#98C8E8</border_color>
+            <padding>0</padding>
+          </style>
+          <nodes>
+            <node id="2" text="指南" x="728" y="382" width="50" height="32" text_b="2, 2, 46, 28" fold_btn_b="714, 392, 13, 13">
+              <nodes>
+                <node id="1" text="network" x="565" y="251" width="83" height="28" text_b="0, 0, 83, 28">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                </node>
+                <node id="1lhvktsnlmvgc8vr6beg5i1nff" text="timeline" x="566" y="289" width="82" height="28" text_b="0, 0, 82, 28">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                </node>
+                <node id="45v4vgqu2eviuquf55d7s2ot13" text="element" x="565" y="327" width="83" height="28" text_b="0, 0, 83, 28" fold_btn_b="551, 335, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="33shrrjnlckom9vf9h9qrrhnhi" text="ctrl+f 编辑html" x="339" y="327" width="146" height="28" text_b="0, 0, 146, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="33shrrjnlckom9vf9h9qrrhnhi" begin_side="Left" end_side="Right" begin_rect="552, 327, 96, 28" end_rect="335, 323, 154, 36" />
+                  </lines>
+                </node>
+                <node id="41rs3l5666espphck2mb2vi1fa" text="Profiles" x="572" y="365" width="76" height="28" text_b="0, 0, 76, 28" fold_btn_b="558, 373, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="65be8h9gmp97vknkm7ksenhmla" text="分析web应用或者网页的执行时间以及内存使用情况" x="35" y="365" width="457" height="28" text_b="0, 0, 457, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="65be8h9gmp97vknkm7ksenhmla" begin_side="Left" end_side="Right" begin_rect="559, 365, 89, 28" end_rect="31, 361, 465, 36" />
+                  </lines>
+                </node>
+                <node id="6j0p397d7c4p2m7p0ludud2t3i" text="console" x="569" y="403" width="79" height="28" text_b="0, 0, 79, 28" fold_btn_b="555, 411, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="2gbrh70vtn8iplvur7lc8nav0l" text="警告信息" x="404" y="403" width="85" height="28" text_b="0, 0, 85, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="2gbrh70vtn8iplvur7lc8nav0l" begin_side="Left" end_side="Right" begin_rect="556, 403, 92, 28" end_rect="400, 399, 93, 36" />
+                  </lines>
+                </node>
+                <node id="76nr3vh71sfhpof72bd6d9gfnr" text="Audits" x="581" y="441" width="67" height="28" text_b="0, 0, 67, 28" fold_btn_b="567, 449, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="7d5qln5eeavkcp2f53nbilh55n" text="分析网页加载的过程.进而提供减少页面加载时间的方案" x="20" y="441" width="481" height="28" text_b="0, 0, 481, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="7d5qln5eeavkcp2f53nbilh55n" begin_side="Left" end_side="Right" begin_rect="568, 441, 80, 28" end_rect="16, 437, 489, 36" />
+                  </lines>
+                </node>
+                <node id="38m82mkrfrb9ecnuc8kuhgtde1" text="sources" x="570" y="479" width="78" height="28" text_b="0, 0, 78, 28" fold_btn_b="556, 487, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="0n9s455g4q76vag0mv6qb73cc6" text="调试JS" x="425" y="479" width="65" height="28" text_b="0, 0, 65, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="0n9s455g4q76vag0mv6qb73cc6" begin_side="Left" end_side="Right" begin_rect="557, 479, 91, 28" end_rect="421, 475, 73, 36" />
+                  </lines>
+                </node>
+                <node id="418vrq0mohl91qu60698l9ian0" text="resources" x="552" y="517" width="96" height="28" text_b="0, 0, 96, 28" fold_btn_b="538, 525, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="2pfjg4oohl86f8l960ob3ddjam" text="对本地缓存中的数据进行确认以及编辑" x="133" y="517" width="339" height="28" text_b="0, 0, 339, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="2pfjg4oohl86f8l960ob3ddjam" begin_side="Left" end_side="Right" begin_rect="539, 517, 109, 28" end_rect="129, 513, 347, 36" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="1" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="561, 247, 91, 36" />
+                <line target="1lhvktsnlmvgc8vr6beg5i1nff" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="562, 285, 90, 36" />
+                <line target="45v4vgqu2eviuquf55d7s2ot13" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="561, 323, 91, 36" />
+                <line target="41rs3l5666espphck2mb2vi1fa" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="568, 361, 84, 36" />
+                <line target="6j0p397d7c4p2m7p0ludud2t3i" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="565, 399, 87, 36" />
+                <line target="76nr3vh71sfhpof72bd6d9gfnr" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="577, 437, 75, 36" />
+                <line target="38m82mkrfrb9ecnuc8kuhgtde1" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="566, 475, 86, 36" />
+                <line target="418vrq0mohl91qu60698l9ian0" begin_side="Left" end_side="Right" begin_rect="715, 382, 63, 32" end_rect="548, 513, 104, 36" />
+              </lines>
+            </node>
+            <node id="3hnlvk9e3lgbsa96jo8k7shlbk" text="实践" x="1114" y="384" width="46" height="28" text_b="0, 0, 46, 28">
+              <style>
+                <padding>0</padding>
+              </style>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="858, 384, 176, 28" end_rect="724, 378, 58, 40" />
+            <line target="3hnlvk9e3lgbsa96jo8k7shlbk" begin_side="Right" end_side="Left" begin_rect="858, 384, 176, 28" end_rect="1110, 380, 54, 36" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
