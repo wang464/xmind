@@ -1,0 +1,1495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>w_y_w</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="新页面 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>Black</line_color>
+        <border_color>#599764</border_color>
+        <node_back_color>#A2C8A9</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>#599764</select_color>
+        <hover_color>#599764</hover_color>
+        <link_line_color>#599764</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="2" text="html" x="637" y="372" width="74" height="52" text_b="12, 12, 50, 28">
+          <style>
+            <back_color>#599764</back_color>
+            <fore_color>White</fore_color>
+            <border_color>#98C8E8</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="3" text="指南" x="507" y="382" width="50" height="32" text_b="2, 2, 46, 28" fold_btn_b="493, 392, 13, 13">
+              <nodes>
+                <node id="5s7q3or20gafkmbp8i91hmfi2s" text="form表单 " x="336" y="213" width="91" height="28" folded="True" text_b="0, 0, 91, 28" fold_btn_b="322, 221, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4e2chk0ms1sccvd7lnsco1hr65" text="作用" x="940" y="554" width="46" height="28" folded="True" text_b="0, 0, 46, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="6d1rmm4e49ka31rdq00kc9l1b6" text="组成" x="940" y="592" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="926, 600, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="3mpo6mi2coteie2m4gs15ncd6k" text="文本域" x="69915" y="29852" width="66" height="28" folded="True" text_b="0, 0, 66, 28" fold_btn_b="69901, 29860, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1co602s0ai2msfngbu0u2888od" text="文本域通过&lt;input type=&quot;text&quot;&gt; 标签来设定" x="69434" y="29852" width="401" height="28" folded="True" text_b="0, 0, 401, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="1co602s0ai2msfngbu0u2888od" begin_side="Left" end_side="Right" begin_rect="69902, 29852, 79, 28" end_rect="69430, 29848, 409, 36" />
+                          </lines>
+                        </node>
+                        <node id="2rs80qbs02sep9dl9lfpuo14ld" text="单选按钮" x="69896" y="29890" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4vijc9lm3i94k5f5rccqig4np8" text="复选框" x="69915" y="29928" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="377q5jlgffqek9pklge47t0lu7" text="提交按钮" x="69896" y="29966" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6lhgelbid0duogesgd56mbao65" text="表单域" x="69915" y="30004" width="66" height="28" folded="True" text_b="0, 0, 66, 28" fold_btn_b="69901, 30012, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="78g0qucvjm6273qiq0q2u6471i" text="action" x="93617" y="47186" width="64" height="28" folded="True" text_b="0, 0, 64, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="6tlagpgrqc0jcukokqii0vcd4g" text="method" x="93617" y="47243" width="81" height="28" folded="True" text_b="0, 0, 81, 28" fold_btn_b="93699, 47251, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="6h6tuh800gfrn0hrehdsr3bcqb" text="get" x="93778" y="47224" width="38" height="28" folded="True" text_b="0, 0, 38, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                                <node id="5bmna28vg05h5m33dtpkv9gnro" text="post" x="93778" y="47262" width="48" height="28" folded="True" text_b="0, 0, 48, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines>
+                                <line target="6h6tuh800gfrn0hrehdsr3bcqb" begin_side="Right" end_side="Left" begin_rect="93617, 47243, 94, 28" end_rect="93774, 47220, 46, 36" />
+                                <line target="5bmna28vg05h5m33dtpkv9gnro" begin_side="Right" end_side="Left" begin_rect="93617, 47243, 94, 28" end_rect="93774, 47258, 56, 36" />
+                              </lines>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="1om5s06sqsh47l5734fmgaq9rg" text="控件" x="940" y="630" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="926, 638, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4mibcn8eggpl4d0sq8lapnkdaa" text="文本输入框" x="93471" y="47376" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="93577, 47384, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="6mbed9bl9prh3b0247moatc38k" text="maxlength" x="93656" y="47300" width="106" height="28" folded="True" text_b="0, 0, 106, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="6t5kvfdvclo2224l5ng7guppe1" text="readonly" x="93656" y="47338" width="89" height="28" folded="True" text_b="0, 0, 89, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="4amsnaiuhae0b7skb4csg6fbvh" text="disabled" x="93656" y="47376" width="86" height="28" folded="True" text_b="0, 0, 86, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="0tuebmlde1mhek750jgdvtuncg" text="name" x="93656" y="47414" width="59" height="28" folded="True" text_b="0, 0, 59, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="6mqlrtl2gbqvulnegg9d1a5nup" text="value" x="93656" y="47452" width="56" height="28" folded="True" text_b="0, 0, 56, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="6mbed9bl9prh3b0247moatc38k" begin_side="Right" end_side="Left" begin_rect="93471, 47376, 118, 28" end_rect="93652, 47296, 114, 36" />
+                            <line target="6t5kvfdvclo2224l5ng7guppe1" begin_side="Right" end_side="Left" begin_rect="93471, 47376, 118, 28" end_rect="93652, 47334, 97, 36" />
+                            <line target="4amsnaiuhae0b7skb4csg6fbvh" begin_side="Right" end_side="Left" begin_rect="93471, 47376, 118, 28" end_rect="93652, 47372, 94, 36" />
+                            <line target="0tuebmlde1mhek750jgdvtuncg" begin_side="Right" end_side="Left" begin_rect="93471, 47376, 118, 28" end_rect="93652, 47410, 67, 36" />
+                            <line target="6mqlrtl2gbqvulnegg9d1a5nup" begin_side="Right" end_side="Left" begin_rect="93471, 47376, 118, 28" end_rect="93652, 47448, 64, 36" />
+                          </lines>
+                        </node>
+                        <node id="6sqk39cornjatq6fg7itsuern5" text="密码输入框" x="93471" y="47490" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="93577, 47498, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="30da4b10graidamro8m1ofovq8" text="属性同文本输入框" x="93656" y="47490" width="163" height="28" folded="True" text_b="0, 0, 163, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="30da4b10graidamro8m1ofovq8" begin_side="Right" end_side="Left" begin_rect="93471, 47490, 118, 28" end_rect="93652, 47486, 171, 36" />
+                          </lines>
+                        </node>
+                        <node id="02tbgdl79tn0cbj3hj3llh1p2l" text="单选按钮" x="93471" y="47547" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="93557, 47555, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="3jdd05fbqgjv2h8moipu99hvoj" text="实现单选效果" x="93636" y="47528" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="2rhg46i33snhjnt38ssgl7uriv" text="默认选中项" x="93636" y="47566" width="105" height="28" folded="True" text_b="0, 0, 105, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="3jdd05fbqgjv2h8moipu99hvoj" begin_side="Right" end_side="Left" begin_rect="93471, 47547, 98, 28" end_rect="93632, 47524, 132, 36" />
+                            <line target="2rhg46i33snhjnt38ssgl7uriv" begin_side="Right" end_side="Left" begin_rect="93471, 47547, 98, 28" end_rect="93632, 47562, 113, 36" />
+                          </lines>
+                        </node>
+                        <node id="3s886j7dnv9jg0227p2o2p4nre" text="下拉列表" x="93471" y="47623" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="93557, 47631, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="0m3enjbro9d6cutf9rictu94qv" text="实现多选效果" x="93636" y="47604" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="4dhh7sq3ui2dd2566b9cd1f1nl" text="分组显示" x="93636" y="47642" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="0m3enjbro9d6cutf9rictu94qv" begin_side="Right" end_side="Left" begin_rect="93471, 47623, 98, 28" end_rect="93632, 47600, 132, 36" />
+                            <line target="4dhh7sq3ui2dd2566b9cd1f1nl" begin_side="Right" end_side="Left" begin_rect="93471, 47623, 98, 28" end_rect="93632, 47638, 93, 36" />
+                          </lines>
+                        </node>
+                        <node id="297q30d5ocm9uonm8bbtdbs24e" text="多行文本输入框" x="93471" y="47680" width="144" height="28" folded="True" text_b="0, 0, 144, 28" fold_btn_b="93616, 47688, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="6tda4d518cdfbulhsonial7qlv" text="&lt;textarea&gt;&lt;/textarea&gt;" x="93695" y="47680" width="225" height="28" folded="True" text_b="0, 0, 225, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="6tda4d518cdfbulhsonial7qlv" begin_side="Right" end_side="Left" begin_rect="93471, 47680, 157, 28" end_rect="93691, 47676, 233, 36" />
+                          </lines>
+                        </node>
+                        <node id="3ao2gnjq95daetl70v8vqmo83e" text="按钮控件" x="93471" y="47756" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="93557, 47764, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="25ceo1re157c4h00umfon2nop9" text="表单提交按钮" x="93636" y="47718" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="6nuq5hjnviqlpe78sl9qnh4f9m" text="普通按钮" x="93636" y="47756" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="64q1chd6tcj9k0t2f4i89s88l7" text="重置按钮" x="93636" y="47794" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="25ceo1re157c4h00umfon2nop9" begin_side="Right" end_side="Left" begin_rect="93471, 47756, 98, 28" end_rect="93632, 47714, 132, 36" />
+                            <line target="6nuq5hjnviqlpe78sl9qnh4f9m" begin_side="Right" end_side="Left" begin_rect="93471, 47756, 98, 28" end_rect="93632, 47752, 93, 36" />
+                            <line target="64q1chd6tcj9k0t2f4i89s88l7" begin_side="Right" end_side="Left" begin_rect="93471, 47756, 98, 28" end_rect="93632, 47790, 93, 36" />
+                          </lines>
+                        </node>
+                        <node id="2fn973m1uqo0cbaljr2vekeqev" text="图片上传控件" x="93471" y="47832" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="7tse0fjtjuq66qb8b625iu2a03" text="分组控件" x="93471" y="47870" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="3nttp9k0hatkge1pfg1469r1fa" text="表单补充" x="901" y="668" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="887, 676, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="5k6clvvp2f3j3lfoam0mr0rdia" text="网址判断" x="93510" y="47908" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2njss6a1k8v71vilh0n1surcrb" text="邮箱判断" x="93510" y="47946" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2lrksb2ljutbkeov8jce8pb28f" text="日期控件" x="93510" y="47984" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6qju4r2nde2k31j8apg2bo3qkn" text="时间控件" x="93510" y="48022" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3d6k4j53pri07etcmfk3p53t6m" text="只能输入数字的控件" x="93510" y="48060" width="183" height="28" folded="True" text_b="0, 0, 183, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2hphk23p3q42ultmf5gq6g3mf3" text="来回拉动控件" x="93510" y="48098" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="1e13aq79o1ksjiodgtq75442ib" text="表格" x="381" y="251" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="367, 259, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="7gd7g5m22qiqtjnf3vohuviv1l" text="表格结构" x="70067" y="30118" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="2geimprndmhqcduudtekfq6p8l" text="表头" x="70106" y="30156" width="46" height="28" folded="True" text_b="0, 0, 46, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="5a2vj0tt7jvp0v131skdht6q32" text="属性介绍" x="70067" y="30327" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="70053, 30335, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="7cjkremrjmmj8ug4ggvs6dl3oq" text="width" x="69928" y="30194" width="59" height="28" folded="True" text_b="0, 0, 59, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3tctfatv0a0b6ee9uokh5097q8" text="height" x="69920" y="30232" width="67" height="28" folded="True" text_b="0, 0, 67, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="54m1tpmrm9h9vb7h0bsdprpc1p" text="border" x="69917" y="30270" width="70" height="28" folded="True" text_b="0, 0, 70, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1ap61k12gtjtvg1ufj0rp70dls" text="cellspacing" x="69877" y="30308" width="110" height="28" folded="True" text_b="0, 0, 110, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1tk8a9k7o946tf01dao9vndb62" text="cellpadding" x="69871" y="30346" width="116" height="28" folded="True" text_b="0, 0, 116, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4mqor9emfjk69to73u5685irfv" text="bgcolor" x="69908" y="30384" width="79" height="28" folded="True" text_b="0, 0, 79, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6ui1qvolcpnkp59hi4f4757p4k" text="align" x="69934" y="30422" width="53" height="28" folded="True" text_b="0, 0, 53, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2dughmptvjr87m8db5o96d899t" text="th" x="69961" y="30460" width="26" height="28" folded="True" text_b="0, 0, 26, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="7cjkremrjmmj8ug4ggvs6dl3oq" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69924, 30190, 67, 36" />
+                        <line target="3tctfatv0a0b6ee9uokh5097q8" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69916, 30228, 75, 36" />
+                        <line target="54m1tpmrm9h9vb7h0bsdprpc1p" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69913, 30266, 78, 36" />
+                        <line target="1ap61k12gtjtvg1ufj0rp70dls" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69873, 30304, 118, 36" />
+                        <line target="1tk8a9k7o946tf01dao9vndb62" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69867, 30342, 124, 36" />
+                        <line target="4mqor9emfjk69to73u5685irfv" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69904, 30380, 87, 36" />
+                        <line target="6ui1qvolcpnkp59hi4f4757p4k" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69930, 30418, 61, 36" />
+                        <line target="2dughmptvjr87m8db5o96d899t" begin_side="Left" end_side="Right" begin_rect="70054, 30327, 98, 28" end_rect="69957, 30456, 34, 36" />
+                      </lines>
+                    </node>
+                    <node id="4ktfuupup6mkphi2r39kq5ts00" text="合并单元格" x="70047" y="30517" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="70033, 30525, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="7tg7614imdje946ji2dv11f1un" text="合并列" x="69901" y="30498" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6f5aabp3hmfch7n6ucdqrdfuh9" text="合并行" x="69901" y="30536" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="7tg7614imdje946ji2dv11f1un" begin_side="Left" end_side="Right" begin_rect="70034, 30517, 118, 28" end_rect="69897, 30494, 74, 36" />
+                        <line target="6f5aabp3hmfch7n6ucdqrdfuh9" begin_side="Left" end_side="Right" begin_rect="70034, 30517, 118, 28" end_rect="69897, 30532, 74, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="0anm4tkkrdapen8c3mines625l" text="a标签" x="370" y="289" width="57" height="28" folded="True" text_b="0, 0, 57, 28" fold_btn_b="356, 297, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="3k12gqla1sprm63eijtvaotleu" text="超链接" x="70075" y="30574" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="369sgnk9fbta8h48jubofeuk3n" text="锚链节" x="70075" y="30612" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="5sb7gbkepg13h9uqm03befugi1" text="简单的下载功能" x="69997" y="30650" width="144" height="28" folded="True" text_b="0, 0, 144, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="6nns5di0ha2joamn7u0gh99ulo" text="超链接不跳转到任何页面" x="69919" y="30688" width="222" height="28" folded="True" text_b="0, 0, 222, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="5" text="mete标签" x="333" y="327" width="94" height="28" folded="True" text_b="0, 0, 94, 28" fold_btn_b="319, 335, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4aj4f2nmb72g2j18sng5sfmnhs" text="keywords" x="63300" y="27998" width="96" height="28" folded="True" text_b="0, 0, 96, 28" fold_btn_b="63286, 28006, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4l3cst3ujtdiusa0lthqm8mcfh" text="告诉搜索引擎当前网页的关键词.在SEO中非常重要." x="62774" y="27979" width="446" height="28" folded="True" text_b="0, 0, 446, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2mteq1l0l0hh8q13t286egrasa" text="&lt;meta name=&quot;keywords&quot; content=&quot;IT前言技术、iOS技术、HTML5技术、Android技术&quot; /&gt;" x="62388" y="28017" width="832" height="28" folded="True" text_b="0, 0, 832, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4l3cst3ujtdiusa0lthqm8mcfh" begin_side="Left" end_side="Right" begin_rect="63287, 27998, 109, 28" end_rect="62770, 27975, 454, 36" />
+                        <line target="2mteq1l0l0hh8q13t286egrasa" begin_side="Left" end_side="Right" begin_rect="63287, 27998, 109, 28" end_rect="62384, 28013, 840, 36" />
+                      </lines>
+                    </node>
+                    <node id="7m0a6q3smq8houg4la2dscp63a" text="Descriiption" x="63277" y="28074" width="119" height="28" folded="True" text_b="0, 0, 119, 28" fold_btn_b="63263, 28082, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6urs7rb1qkvai8uueevt8bjnfl" text="告诉搜索引擎当前网页的主要内容, 在SEO中非常重要, 当别人在搜索引擎中搜索到你的网站时会自动作为对你网站的描述信息展示给用户, 能够提高搜索命中率, 让别人更容易找到你" x="61643" y="28055" width="1554" height="28" folded="True" text_b="0, 0, 1554, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="11mesob6p90p2emes6o0h7qlpb" text="&lt;meta name=&quot;description&quot; content=&quot;江哥热爱于IT前言技术、iOS技术、HTML5技术、Android技术研究&quot; /&gt;" x="62212" y="28093" width="985" height="28" folded="True" text_b="0, 0, 985, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6urs7rb1qkvai8uueevt8bjnfl" begin_side="Left" end_side="Right" begin_rect="63264, 28074, 132, 28" end_rect="61639, 28051, 1562, 36" />
+                        <line target="11mesob6p90p2emes6o0h7qlpb" begin_side="Left" end_side="Right" begin_rect="63264, 28074, 132, 28" end_rect="62208, 28089, 993, 36" />
+                      </lines>
+                    </node>
+                    <node id="1pkme4civnrne88alch492et4v" text="Author" x="63324" y="28150" width="72" height="28" folded="True" text_b="0, 0, 72, 28" fold_btn_b="63310, 28158, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="68g311tth5ajaakg3ejtc51doi" text="告诉搜索引擎当前网页的作用" x="62983" y="28131" width="261" height="28" folded="True" text_b="0, 0, 261, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5ib6piul7qfrmlnu8al4j29tr3" text="&lt;meta name=&quot;author&quot; content=&quot;Jonathan_Lee&quot; /&gt;" x="62759" y="28169" width="485" height="28" folded="True" text_b="0, 0, 485, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="68g311tth5ajaakg3ejtc51doi" begin_side="Left" end_side="Right" begin_rect="63311, 28150, 85, 28" end_rect="62979, 28127, 269, 36" />
+                        <line target="5ib6piul7qfrmlnu8al4j29tr3" begin_side="Left" end_side="Right" begin_rect="63311, 28150, 85, 28" end_rect="62755, 28165, 493, 36" />
+                      </lines>
+                    </node>
+                    <node id="7382ris72oto1mdsv6m09l3a7g" text="refresh" x="63324" y="28226" width="72" height="28" folded="True" text_b="0, 0, 72, 28" fold_btn_b="63310, 28234, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1cf7lsa0hhmrhs0pc3nogk977u" text="告诉浏览器多久自动刷新一次页面.并指向新页面, 常用于新老域名交替时, 访问老域名自动跳转到新域名, 或用语一些需要定时刷新的聊天室等." x="62022" y="28207" width="1222" height="28" folded="True" text_b="0, 0, 1222, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="01qga4vmr5sjmg0elp344cepc6" text="&lt;meta http-equiv=&quot;Refresh&quot; content=&quot;2；URL=http://www.baidu.com/&quot;&gt;" x="62543" y="28245" width="701" height="28" folded="True" text_b="0, 0, 701, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1cf7lsa0hhmrhs0pc3nogk977u" begin_side="Left" end_side="Right" begin_rect="63311, 28226, 85, 28" end_rect="62018, 28203, 1230, 36" />
+                        <line target="01qga4vmr5sjmg0elp344cepc6" begin_side="Left" end_side="Right" begin_rect="63311, 28226, 85, 28" end_rect="62539, 28241, 709, 36" />
+                      </lines>
+                    </node>
+                    <node id="26p14tvppits02j3nnojh83as7" text="robots" x="63328" y="28397" width="68" height="28" folded="True" text_b="0, 0, 68, 28" fold_btn_b="63314, 28405, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6k9f4jua871j42if7nm6cqtkv3" text="告诉搜索引擎当前网页的内容, 写给网络爬虫看的内容" x="62781" y="28283" width="467" height="28" folded="True" text_b="0, 0, 467, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5hgffrh4i2pke2m9v9hel7r91e" text="&lt;meta name=&quot;robots&quot; content=&quot;all|none|index|follow|noindex|nofollow&quot; /&gt;" x="62529" y="28416" width="719" height="28" folded="True" text_b="0, 0, 719, 28" fold_btn_b="62515, 28424, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="40odkdqnhibdr2j2lbl4lo7vrr" text="index: 告诉搜索引擎允许抓取当前页面" x="62107" y="28321" width="342" height="28" folded="True" text_b="0, 0, 342, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="1ri107vf7f2l7s86vd70770u1f" text="noindex:告诉搜索引擎不允许抓取当前页面" x="62069" y="28359" width="380" height="28" folded="True" text_b="0, 0, 380, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="0uja8jvd044hr5e6purajpnhp7" text="follow: 告诉搜索引擎可以从当前页面上找到链接，然后继续访问抓取下去" x="61807" y="28397" width="642" height="28" folded="True" text_b="0, 0, 642, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="76s7b36hfr9eu4j6rsrlli2791" text="nofollow:告诉搜索引擎不允许从当前页面上找到链接, 拒绝其继续访问" x="61836" y="28435" width="613" height="28" folded="True" text_b="0, 0, 613, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="1rfmmthj9qmm0a570a8vspcoae" text="all: 告诉搜索引擎允许抓取当前页面, 并且允许从此页找到链接继续访问" x="61833" y="28473" width="616" height="28" folded="True" text_b="0, 0, 616, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="3alqcrjben1oiu1johopf9tfde" text="none: 告诉搜索引擎不允许抓取这个页面,并且不允许从此页找到链接、拒绝其继续访问" x="61694" y="28511" width="755" height="28" folded="True" text_b="0, 0, 755, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="40odkdqnhibdr2j2lbl4lo7vrr" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="62103, 28317, 350, 36" />
+                            <line target="1ri107vf7f2l7s86vd70770u1f" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="62065, 28355, 388, 36" />
+                            <line target="0uja8jvd044hr5e6purajpnhp7" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="61803, 28393, 650, 36" />
+                            <line target="76s7b36hfr9eu4j6rsrlli2791" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="61832, 28431, 621, 36" />
+                            <line target="1rfmmthj9qmm0a570a8vspcoae" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="61829, 28469, 624, 36" />
+                            <line target="3alqcrjben1oiu1johopf9tfde" begin_side="Left" end_side="Right" begin_rect="62516, 28416, 732, 28" end_rect="61690, 28507, 763, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6k9f4jua871j42if7nm6cqtkv3" begin_side="Left" end_side="Right" begin_rect="63315, 28397, 81, 28" end_rect="62777, 28279, 475, 36" />
+                        <line target="5hgffrh4i2pke2m9v9hel7r91e" begin_side="Left" end_side="Right" begin_rect="63315, 28397, 81, 28" end_rect="62525, 28412, 727, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="6" text="多媒体标签" x="322" y="365" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="308, 373, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4usc1m1ofl09nteueupdkc6cnr" text="video视频" x="54073" y="23204" width="97" height="28" folded="True" text_b="0, 0, 97, 28" fold_btn_b="54059, 23212, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4b83neqebv23cacbogvfgnoabv" text="地址 src" x="53915" y="23021" width="78" height="28" folded="True" text_b="0, 0, 78, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3kcoa3s07pvtuicqkr7nfga2ii" text="自动播放 autoplay" x="53821" y="23059" width="172" height="28" folded="True" text_b="0, 0, 172, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6mt3oon8r2nb8i22aueu6dg902" text="进度条 control" x="53855" y="23097" width="138" height="28" folded="True" text_b="0, 0, 138, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4bs5e13pvb10hkn66eue9skuf0" text="宽 width" x="53908" y="23135" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1o6dssck3opj1to66r3glti7hj" text="高 hight" x="53912" y="23173" width="81" height="28" folded="True" text_b="0, 0, 81, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="09vtsbthrkjs4luk7inlaj2ud0" text="loop 循环" x="53899" y="23211" width="94" height="28" folded="True" text_b="0, 0, 94, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="50841a6tn31hmclc2i0hgvhhrv" text="预加载 preload" x="53850" y="23249" width="143" height="28" folded="True" text_b="0, 0, 143, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2apce03tm1q7tcqbenveqpgt45" text="静音 muted " x="53880" y="23287" width="113" height="28" folded="True" text_b="0, 0, 113, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3j0s5ojb1d9j3mt4pbib8pd52e" text="占位图片 poster" x="53842" y="23325" width="151" height="28" folded="True" text_b="0, 0, 151, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2s8uhv2rvahngdacensq6j4hab" text="格式而: video &#xD;&#xA;适配所有浏览器  source" x="53776" y="23363" width="217" height="53" folded="True" text_b="0, 0, 217, 53">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4b83neqebv23cacbogvfgnoabv" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53911, 23017, 86, 36" />
+                        <line target="3kcoa3s07pvtuicqkr7nfga2ii" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53817, 23055, 180, 36" />
+                        <line target="6mt3oon8r2nb8i22aueu6dg902" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53851, 23093, 146, 36" />
+                        <line target="4bs5e13pvb10hkn66eue9skuf0" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53904, 23131, 93, 36" />
+                        <line target="1o6dssck3opj1to66r3glti7hj" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53908, 23169, 89, 36" />
+                        <line target="09vtsbthrkjs4luk7inlaj2ud0" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53895, 23207, 102, 36" />
+                        <line target="50841a6tn31hmclc2i0hgvhhrv" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53846, 23245, 151, 36" />
+                        <line target="2apce03tm1q7tcqbenveqpgt45" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53876, 23283, 121, 36" />
+                        <line target="3j0s5ojb1d9j3mt4pbib8pd52e" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53838, 23321, 159, 36" />
+                        <line target="2s8uhv2rvahngdacensq6j4hab" begin_side="Left" end_side="Right" begin_rect="54060, 23204, 110, 28" end_rect="53772, 23359, 225, 61" />
+                      </lines>
+                    </node>
+                    <node id="0agjjbcrhfnp869sh5kqilgid3" text="vudio 音频" x="54066" y="23552" width="104" height="28" folded="True" text_b="0, 0, 104, 28" fold_btn_b="54052, 23560, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="41pfm7akeuq1n0kan5fhrqhlmv" text="地址 src" x="53908" y="23426" width="78" height="28" folded="True" text_b="0, 0, 78, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1ipk7bb7c8atvtjf3a1g5941j1" text="自动播放 autoplay" x="53814" y="23464" width="172" height="28" folded="True" text_b="0, 0, 172, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5h76rqin77i9edaplilp9d0b19" text="进度条 control" x="53848" y="23502" width="138" height="28" folded="True" text_b="0, 0, 138, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5at6uipv5867jgsfm6daos790k" text="loop 循环" x="53892" y="23540" width="94" height="28" folded="True" text_b="0, 0, 94, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="0l03deattpieof1gb4jv0n1etd" text="预加载 preload" x="53843" y="23578" width="143" height="28" folded="True" text_b="0, 0, 143, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="58ffbpbd386thtg2p8kp82et7q" text="静音 muted " x="53873" y="23616" width="113" height="28" folded="True" text_b="0, 0, 113, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4dtc7t2b0jd14ent4mb6lhaglh" text="vudio &#xD;&#xA;source" x="53917" y="23654" width="69" height="53" folded="True" text_b="0, 0, 69, 53">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="41pfm7akeuq1n0kan5fhrqhlmv" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53904, 23422, 86, 36" />
+                        <line target="1ipk7bb7c8atvtjf3a1g5941j1" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53810, 23460, 180, 36" />
+                        <line target="5h76rqin77i9edaplilp9d0b19" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53844, 23498, 146, 36" />
+                        <line target="5at6uipv5867jgsfm6daos790k" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53888, 23536, 102, 36" />
+                        <line target="0l03deattpieof1gb4jv0n1etd" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53839, 23574, 151, 36" />
+                        <line target="58ffbpbd386thtg2p8kp82et7q" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53869, 23612, 121, 36" />
+                        <line target="4dtc7t2b0jd14ent4mb6lhaglh" begin_side="Left" end_side="Right" begin_rect="54053, 23552, 117, 28" end_rect="53913, 23650, 77, 61" />
+                      </lines>
+                    </node>
+                    <node id="2l7dmufk1gjgoi6he2ckfkpcc2" text="折叠标签summary" x="53998" y="23736" width="172" height="28" folded="True" text_b="0, 0, 172, 28" fold_btn_b="53984, 23744, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1bp8sd0aned9lakfstbauf97dc" text="details 全部信息" x="53766" y="23717" width="152" height="28" folded="True" text_b="0, 0, 152, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2c85kdbgljrvtmk832t9ec6g7g" text="summary 概要信息" x="53741" y="23755" width="177" height="28" folded="True" text_b="0, 0, 177, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1bp8sd0aned9lakfstbauf97dc" begin_side="Left" end_side="Right" begin_rect="53985, 23736, 185, 28" end_rect="53762, 23713, 160, 36" />
+                        <line target="2c85kdbgljrvtmk832t9ec6g7g" begin_side="Left" end_side="Right" begin_rect="53985, 23736, 185, 28" end_rect="53737, 23751, 185, 36" />
+                      </lines>
+                    </node>
+                    <node id="5mrku3vghvejiu8ni8nbhu2gt3" text="弹幕/跑马灯marquee" x="53974" y="23964" width="196" height="28" folded="True" text_b="0, 0, 196, 28" fold_btn_b="53960, 23972, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0v44girn9lc1ck3imrt73tp0ud" text="这个标签在W3C里面没有,但所有的浏览器都支持" x="53466" y="23793" width="428" height="28" folded="True" text_b="0, 0, 428, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="183ru1cqq9evtqdkl0gb956l5t" text="&lt;marquee&gt;内容&lt;/marquee&gt;" x="53615" y="23831" width="279" height="28" folded="True" text_b="0, 0, 279, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6iqfo93m35nlssp4t3fsj76m6r" text="滚动方向direction " x="53726" y="23926" width="168" height="28" folded="True" text_b="0, 0, 168, 28" fold_btn_b="53712, 23934, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1g9jpgefrpd8bcut2k0217gutp" text="left" x="53609" y="23869" width="37" height="28" folded="True" text_b="0, 0, 37, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="2ue8234ke5hl54asfehj1ch5ee" text="right" x="53595" y="23907" width="51" height="28" folded="True" text_b="0, 0, 51, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="5hqe09ouuq388p2nuge6m5i3pu" text="up" x="53615" y="23945" width="31" height="28" folded="True" text_b="0, 0, 31, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="1fo3ugki5152d7ji7j2fkn7658" text="down" x="53587" y="23983" width="59" height="28" folded="True" text_b="0, 0, 59, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="1g9jpgefrpd8bcut2k0217gutp" begin_side="Left" end_side="Right" begin_rect="53713, 23926, 181, 28" end_rect="53605, 23865, 45, 36" />
+                            <line target="2ue8234ke5hl54asfehj1ch5ee" begin_side="Left" end_side="Right" begin_rect="53713, 23926, 181, 28" end_rect="53591, 23903, 59, 36" />
+                            <line target="5hqe09ouuq388p2nuge6m5i3pu" begin_side="Left" end_side="Right" begin_rect="53713, 23926, 181, 28" end_rect="53611, 23941, 39, 36" />
+                            <line target="1fo3ugki5152d7ji7j2fkn7658" begin_side="Left" end_side="Right" begin_rect="53713, 23926, 181, 28" end_rect="53583, 23979, 67, 36" />
+                          </lines>
+                        </node>
+                        <node id="21frpqg0ompmnvc8q1g18127md" text="滚动速度 scrollamount " x="53681" y="24021" width="213" height="28" folded="True" text_b="0, 0, 213, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="57gklfr84qgpnkn3pa6dl5nbtn" text="loop 滚动次数" x="53761" y="24059" width="133" height="28" folded="True" text_b="0, 0, 133, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5bun62lmo2pqv5ik7jb8p0snh3" text="behavior 滚动类型" x="53721" y="24116" width="173" height="28" folded="True" text_b="0, 0, 173, 28" fold_btn_b="53707, 24124, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="4pn9e3n8duf86j1ekrcoec6uqk" text="slide滚动到边界就停止" x="53435" y="24097" width="206" height="28" folded="True" text_b="0, 0, 206, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="3d2rhbnbu6agnuihme49c6gcgm" text="aiternate  滚动到边界弹回去" x="53383" y="24135" width="258" height="28" folded="True" text_b="0, 0, 258, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="4pn9e3n8duf86j1ekrcoec6uqk" begin_side="Left" end_side="Right" begin_rect="53708, 24116, 186, 28" end_rect="53431, 24093, 214, 36" />
+                            <line target="3d2rhbnbu6agnuihme49c6gcgm" begin_side="Left" end_side="Right" begin_rect="53708, 24116, 186, 28" end_rect="53379, 24131, 266, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="0v44girn9lc1ck3imrt73tp0ud" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53462, 23789, 436, 36" />
+                        <line target="183ru1cqq9evtqdkl0gb956l5t" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53611, 23827, 287, 36" />
+                        <line target="6iqfo93m35nlssp4t3fsj76m6r" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53722, 23922, 176, 36" />
+                        <line target="21frpqg0ompmnvc8q1g18127md" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53677, 24017, 221, 36" />
+                        <line target="57gklfr84qgpnkn3pa6dl5nbtn" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53757, 24055, 141, 36" />
+                        <line target="5bun62lmo2pqv5ik7jb8p0snh3" begin_side="Left" end_side="Right" begin_rect="53961, 23964, 209, 28" end_rect="53717, 24112, 181, 36" />
+                      </lines>
+                    </node>
+                    <node id="6eg2mpou9forer5ul3jpbmh5i1" text="字符实体" x="54085" y="24211" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="54071, 24219, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1r291uij46b1qiip73i26kadcp" text="&amp;符号开头" x="53903" y="24173" width="102" height="28" folded="True" text_b="0, 0, 102, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="43tqqf9disp37etjduhhsqs2pb" text="&amp;copy版权符号" x="53858" y="24211" width="147" height="28" folded="True" text_b="0, 0, 147, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3qc8ah29d67ddn6tabd3h4rujf" text="空格符号&amp;nbsp" x="53857" y="24249" width="148" height="28" folded="True" text_b="0, 0, 148, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1r291uij46b1qiip73i26kadcp" begin_side="Left" end_side="Right" begin_rect="54072, 24211, 98, 28" end_rect="53899, 24169, 110, 36" />
+                        <line target="43tqqf9disp37etjduhhsqs2pb" begin_side="Left" end_side="Right" begin_rect="54072, 24211, 98, 28" end_rect="53854, 24207, 155, 36" />
+                        <line target="3qc8ah29d67ddn6tabd3h4rujf" begin_side="Left" end_side="Right" begin_rect="54072, 24211, 98, 28" end_rect="53853, 24245, 156, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="7" text="表单标签" x="342" y="403" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="328, 411, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4j6stn51amtulqtp4lbtlbvi3m" text="表单标签" x="47628" y="20075" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="47614, 20083, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0tmm6tbs4bqeru6d6ghqavt9vb" text="作用:用来收集用户数据的" x="47321" y="19999" width="227" height="28" folded="True" text_b="0, 0, 227, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4b2e94d469vga86pbspopgtvuu" text="格式:form" x="47452" y="20037" width="96" height="28" folded="True" text_b="0, 0, 96, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4i2rr4shh0c09ecjo8lkph3u7u" text="重点" x="47502" y="20094" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47488, 20102, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="47tcq2ifddji5jim7qqsckajvi" text="action" x="47358" y="20075" width="64" height="28" folded="True" text_b="0, 0, 64, 28" fold_btn_b="47344, 20083, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="0irivfb5r8c05krgdk154imfhh" text="表单提交到的地址" x="47115" y="20075" width="163" height="28" folded="True" text_b="0, 0, 163, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines>
+                                <line target="0irivfb5r8c05krgdk154imfhh" begin_side="Left" end_side="Right" begin_rect="47345, 20075, 77, 28" end_rect="47111, 20071, 171, 36" />
+                              </lines>
+                            </node>
+                            <node id="12v3e60i5qv0uanqfp8e2o46b5" text="method" x="47341" y="20113" width="81" height="28" folded="True" text_b="0, 0, 81, 28" fold_btn_b="47327, 20121, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="10tf8c8gnpbiounheei2pt85l0" text="提交表单的方式" x="47117" y="20113" width="144" height="28" folded="True" text_b="0, 0, 144, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines>
+                                <line target="10tf8c8gnpbiounheei2pt85l0" begin_side="Left" end_side="Right" begin_rect="47328, 20113, 94, 28" end_rect="47113, 20109, 152, 36" />
+                              </lines>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="47tcq2ifddji5jim7qqsckajvi" begin_side="Left" end_side="Right" begin_rect="47489, 20094, 59, 28" end_rect="47354, 20071, 72, 36" />
+                            <line target="12v3e60i5qv0uanqfp8e2o46b5" begin_side="Left" end_side="Right" begin_rect="47489, 20094, 59, 28" end_rect="47337, 20109, 89, 36" />
+                          </lines>
+                        </node>
+                        <node id="36e000vkho7to4ab2qtvhppdmq" text="多行文本框" x="47443" y="20151" width="105" height="28" folded="True" text_b="0, 0, 105, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="0tmm6tbs4bqeru6d6ghqavt9vb" begin_side="Left" end_side="Right" begin_rect="47615, 20075, 98, 28" end_rect="47317, 19995, 235, 36" />
+                        <line target="4b2e94d469vga86pbspopgtvuu" begin_side="Left" end_side="Right" begin_rect="47615, 20075, 98, 28" end_rect="47448, 20033, 104, 36" />
+                        <line target="4i2rr4shh0c09ecjo8lkph3u7u" begin_side="Left" end_side="Right" begin_rect="47615, 20075, 98, 28" end_rect="47498, 20090, 54, 36" />
+                        <line target="36e000vkho7to4ab2qtvhppdmq" begin_side="Left" end_side="Right" begin_rect="47615, 20075, 98, 28" end_rect="47439, 20147, 113, 36" />
+                      </lines>
+                    </node>
+                    <node id="7i3bvgei88iafmhh9kmm8kj70g" text="input标签" x="47618" y="20284" width="95" height="28" folded="True" text_b="0, 0, 95, 28" fold_btn_b="47604, 20292, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="2mch0bpng8n1ooldk6jsj9uraj" text="属性type" x="47451" y="20265" width="87" height="28" folded="True" text_b="0, 0, 87, 28" fold_btn_b="47437, 20273, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="7j6pjo3krtfhfc0m4dfv23tppr" text="text明文内容" x="47250" y="20189" width="121" height="28" folded="True" text_b="0, 0, 121, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="36cv3s3l9q8alov4fkrh1lbr2f" text="password暗文内容" x="47197" y="20227" width="174" height="28" folded="True" text_b="0, 0, 174, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="21q405ha4kp1as580ktdqrccsc" text="单选框radio" x="47257" y="20265" width="114" height="28" folded="True" text_b="0, 0, 114, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="7t1bhss0ponhc7qtuulmouh50h" text="多选框checkbox" x="47217" y="20303" width="154" height="28" folded="True" text_b="0, 0, 154, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="1fsl1nje0a8ji93r2dcm7u86sl" text="最大长度maxlength" x="47187" y="20341" width="184" height="28" folded="True" text_b="0, 0, 184, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="7j6pjo3krtfhfc0m4dfv23tppr" begin_side="Left" end_side="Right" begin_rect="47438, 20265, 100, 28" end_rect="47246, 20185, 129, 36" />
+                            <line target="36cv3s3l9q8alov4fkrh1lbr2f" begin_side="Left" end_side="Right" begin_rect="47438, 20265, 100, 28" end_rect="47193, 20223, 182, 36" />
+                            <line target="21q405ha4kp1as580ktdqrccsc" begin_side="Left" end_side="Right" begin_rect="47438, 20265, 100, 28" end_rect="47253, 20261, 122, 36" />
+                            <line target="7t1bhss0ponhc7qtuulmouh50h" begin_side="Left" end_side="Right" begin_rect="47438, 20265, 100, 28" end_rect="47213, 20299, 162, 36" />
+                            <line target="1fsl1nje0a8ji93r2dcm7u86sl" begin_side="Left" end_side="Right" begin_rect="47438, 20265, 100, 28" end_rect="47183, 20337, 192, 36" />
+                          </lines>
+                        </node>
+                        <node id="7q51hai63r33ah4omq3fnoochn" text="value" x="47482" y="20379" width="56" height="28" folded="True" text_b="0, 0, 56, 28" fold_btn_b="47468, 20387, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="64948qn571mli2fc6j590276td" text="输入框默认值" x="47278" y="20379" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="64948qn571mli2fc6j590276td" begin_side="Left" end_side="Right" begin_rect="47469, 20379, 69, 28" end_rect="47274, 20375, 132, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="2mch0bpng8n1ooldk6jsj9uraj" begin_side="Left" end_side="Right" begin_rect="47605, 20284, 108, 28" end_rect="47447, 20261, 95, 36" />
+                        <line target="7q51hai63r33ah4omq3fnoochn" begin_side="Left" end_side="Right" begin_rect="47605, 20284, 108, 28" end_rect="47478, 20375, 64, 36" />
+                      </lines>
+                    </node>
+                    <node id="1cvq0st9uo429i0q92d3v3npsl" text="label标签" x="47622" y="20417" width="91" height="28" folded="True" text_b="0, 0, 91, 28" fold_btn_b="47608, 20425, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1ruh34dstenkgcrilvh1uffijm" text="所有表单元素都可以通过babel绑定" x="47229" y="20417" width="313" height="28" folded="True" text_b="0, 0, 313, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1ruh34dstenkgcrilvh1uffijm" begin_side="Left" end_side="Right" begin_rect="47609, 20417, 104, 28" end_rect="47225, 20413, 321, 36" />
+                      </lines>
+                    </node>
+                    <node id="411al7abrt3hqqa7b6ntt2b366" text="按钮" x="47667" y="20531" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47653, 20539, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1ovv3env4p7d6l4ab0l4jltgce" text="普通" x="47541" y="20455" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47527, 20463, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="5qok8e1h9r16qi0sirc0qtb3b1" text="type=&quot;button&quot;" x="47318" y="20455" width="143" height="28" folded="True" text_b="0, 0, 143, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="5qok8e1h9r16qi0sirc0qtb3b1" begin_side="Left" end_side="Right" begin_rect="47528, 20455, 59, 28" end_rect="47314, 20451, 151, 36" />
+                          </lines>
+                        </node>
+                        <node id="7ns4tp7nekcsqvpmh4d9bicvs9" text="图片" x="47541" y="20493" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47527, 20501, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="5t4jrdfmdveam8hc02gvmccp1c" text="type=&quot;img&quot;" x="47345" y="20493" width="116" height="28" folded="True" text_b="0, 0, 116, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="5t4jrdfmdveam8hc02gvmccp1c" begin_side="Left" end_side="Right" begin_rect="47528, 20493, 59, 28" end_rect="47341, 20489, 124, 36" />
+                          </lines>
+                        </node>
+                        <node id="5lpr94usipc0r2t1rcie1op3ta" text="重置" x="47541" y="20531" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47527, 20539, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="4jdrgobbqka7tnepgq72h9f97v" text="type=&quot;reset&quot;" x="47335" y="20531" width="126" height="28" folded="True" text_b="0, 0, 126, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="4jdrgobbqka7tnepgq72h9f97v" begin_side="Left" end_side="Right" begin_rect="47528, 20531, 59, 28" end_rect="47331, 20527, 134, 36" />
+                          </lines>
+                        </node>
+                        <node id="49tobgogtdfru9rlcanb1qcrfb" text="提交" x="47541" y="20588" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="47527, 20596, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="7sgh5gccusd7j5t784haf1ab8n" text="type=&quot;submit&quot;" x="47317" y="20569" width="144" height="28" folded="True" text_b="0, 0, 144, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="3pfjtt1f1ip4oh6koi42mgp71n" text="明文传输(get)不安全, 可以使用method属性设置为post改为非明文传输" x="46835" y="20607" width="626" height="28" folded="True" text_b="0, 0, 626, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="7sgh5gccusd7j5t784haf1ab8n" begin_side="Left" end_side="Right" begin_rect="47528, 20588, 59, 28" end_rect="47313, 20565, 152, 36" />
+                            <line target="3pfjtt1f1ip4oh6koi42mgp71n" begin_side="Left" end_side="Right" begin_rect="47528, 20588, 59, 28" end_rect="46831, 20603, 634, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1ovv3env4p7d6l4ab0l4jltgce" begin_side="Left" end_side="Right" begin_rect="47654, 20531, 59, 28" end_rect="47537, 20451, 54, 36" />
+                        <line target="7ns4tp7nekcsqvpmh4d9bicvs9" begin_side="Left" end_side="Right" begin_rect="47654, 20531, 59, 28" end_rect="47537, 20489, 54, 36" />
+                        <line target="5lpr94usipc0r2t1rcie1op3ta" begin_side="Left" end_side="Right" begin_rect="47654, 20531, 59, 28" end_rect="47537, 20527, 54, 36" />
+                        <line target="49tobgogtdfru9rlcanb1qcrfb" begin_side="Left" end_side="Right" begin_rect="47654, 20531, 59, 28" end_rect="47537, 20584, 54, 36" />
+                      </lines>
+                    </node>
+                    <node id="7a0rm1ssjv4ii000e3ujmq8799" text="隐藏域" x="47647" y="20645" width="66" height="28" folded="True" text_b="0, 0, 66, 28" fold_btn_b="47633, 20653, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="04i2vdrb31mgcuovuslvgg66gb" text="type=&quot;hidden&quot;" x="47422" y="20645" width="145" height="28" folded="True" text_b="0, 0, 145, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="04i2vdrb31mgcuovuslvgg66gb" begin_side="Left" end_side="Right" begin_rect="47634, 20645, 79, 28" end_rect="47418, 20641, 153, 36" />
+                      </lines>
+                    </node>
+                    <node id="038ec047vfb2ff8lf19ndr684d" text="输入框待定选项 datalist" x="47495" y="20702" width="218" height="28" folded="True" text_b="0, 0, 218, 28" fold_btn_b="47481, 20710, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4pmuv97i4fk98pobkljdvbp8ck" text="datalist" x="47340" y="20683" width="75" height="28" folded="True" text_b="0, 0, 75, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="13v8epc3pk6ae2cg68g5v3u0c1" text="option" x="47346" y="20721" width="69" height="28" folded="True" text_b="0, 0, 69, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4pmuv97i4fk98pobkljdvbp8ck" begin_side="Left" end_side="Right" begin_rect="47482, 20702, 231, 28" end_rect="47336, 20679, 83, 36" />
+                        <line target="13v8epc3pk6ae2cg68g5v3u0c1" begin_side="Left" end_side="Right" begin_rect="47482, 20702, 231, 28" end_rect="47342, 20717, 77, 36" />
+                      </lines>
+                    </node>
+                    <node id="0tccl2aaa9chsiccn3vqkprg85" text="次要内容" x="47628" y="20816" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="47614, 20824, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6ou71snf8fhh4lcm9i24lmhf43" text="取色器 input  type='color'" x="47303" y="20759" width="245" height="28" folded="True" text_b="0, 0, 245, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="393rk0piho7fmqcn480k6q48hb" text="日期选择器 type= date" x="47334" y="20797" width="214" height="28" folded="True" text_b="0, 0, 214, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="74apdfdhvcdcdpf5ttmrv1b0fk" text="邮箱格式 type='email'" x="47341" y="20835" width="207" height="28" folded="True" text_b="0, 0, 207, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6ajct1a2t146ksjj8ivlbc93cv" text="域名验证  type='url'" x="47361" y="20873" width="187" height="28" folded="True" text_b="0, 0, 187, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6ou71snf8fhh4lcm9i24lmhf43" begin_side="Left" end_side="Right" begin_rect="47615, 20816, 98, 28" end_rect="47299, 20755, 253, 36" />
+                        <line target="393rk0piho7fmqcn480k6q48hb" begin_side="Left" end_side="Right" begin_rect="47615, 20816, 98, 28" end_rect="47330, 20793, 222, 36" />
+                        <line target="74apdfdhvcdcdpf5ttmrv1b0fk" begin_side="Left" end_side="Right" begin_rect="47615, 20816, 98, 28" end_rect="47337, 20831, 215, 36" />
+                        <line target="6ajct1a2t146ksjj8ivlbc93cv" begin_side="Left" end_side="Right" begin_rect="47615, 20816, 98, 28" end_rect="47357, 20869, 195, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="9" text="什么是浏览器?" x="293" y="441" width="134" height="28" folded="True" text_b="0, 0, 134, 28" fold_btn_b="279, 449, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="06o74atp3glfpf3b0t53i4cead" text="安装在电脑上一个软件" x="6409" y="3546" width="202" height="28" folded="True" text_b="0, 0, 202, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="0g7bqmo600ilv4hpr49f8bf6m0" text="作用" x="6565" y="3603" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="6551, 3611, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0ii254mvn6meo3r0l976jhlh51" text="将网页渲染给用户看" x="6302" y="3584" width="183" height="28" folded="True" text_b="0, 0, 183, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3li96j0dpakrotmc9ogp0revl3" text="让用户可以和网页交互" x="6283" y="3622" width="202" height="28" folded="True" text_b="0, 0, 202, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="0ii254mvn6meo3r0l976jhlh51" begin_side="Left" end_side="Right" begin_rect="6552, 3603, 59, 28" end_rect="6298, 3580, 191, 36" />
+                        <line target="3li96j0dpakrotmc9ogp0revl3" begin_side="Left" end_side="Right" begin_rect="6552, 3603, 59, 28" end_rect="6279, 3618, 210, 36" />
+                      </lines>
+                    </node>
+                    <node id="7ruq8i4tpem1rtp5ghhfdc5am1" text="主流浏览器" x="6506" y="3736" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="6492, 3744, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="02fu7cgtt9ne7p6br2sckcjrfi" text="IE" x="6403" y="3660" width="23" height="28" folded="True" text_b="0, 0, 23, 28" fold_btn_b="6389, 3668, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="08llrvfc45ff2gpsodeenh5dg9" text="内核Trident" x="6210" y="3660" width="113" height="28" folded="True" text_b="0, 0, 113, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="08llrvfc45ff2gpsodeenh5dg9" begin_side="Left" end_side="Right" begin_rect="6390, 3660, 36, 28" end_rect="6206, 3656, 121, 36" />
+                          </lines>
+                        </node>
+                        <node id="3hpp8rqh92a2vn1uln3d9ppnca" text="chrome" x="6348" y="3698" width="78" height="28" folded="True" text_b="0, 0, 78, 28" fold_btn_b="6334, 3706, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="48bkps7g569a6atn2g6cnn9j61" text="内核webkit" x="6160" y="3698" width="108" height="28" folded="True" text_b="0, 0, 108, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="48bkps7g569a6atn2g6cnn9j61" begin_side="Left" end_side="Right" begin_rect="6335, 3698, 91, 28" end_rect="6156, 3694, 116, 36" />
+                          </lines>
+                        </node>
+                        <node id="63vuu2k0auckelh85s6ei8v8qn" text="Firefox" x="6356" y="3736" width="70" height="28" folded="True" text_b="0, 0, 70, 28" fold_btn_b="6342, 3744, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="2akge1ksicu94skpubh2pmttip" text="内核gecko" x="6174" y="3736" width="102" height="28" folded="True" text_b="0, 0, 102, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="2akge1ksicu94skpubh2pmttip" begin_side="Left" end_side="Right" begin_rect="6343, 3736, 83, 28" end_rect="6170, 3732, 110, 36" />
+                          </lines>
+                        </node>
+                        <node id="5qgp2smvrlk0gp0euequ7i0atf" text="Safari" x="6367" y="3774" width="59" height="28" folded="True" text_b="0, 0, 59, 28" fold_btn_b="6353, 3782, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1539fuqhc4hcngj5u37hmnrv87" text="内核webkit" x="6179" y="3774" width="108" height="28" folded="True" text_b="0, 0, 108, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="1539fuqhc4hcngj5u37hmnrv87" begin_side="Left" end_side="Right" begin_rect="6354, 3774, 72, 28" end_rect="6175, 3770, 116, 36" />
+                          </lines>
+                        </node>
+                        <node id="2t404of2ebq1k4f6td9afqi6oo" text="opena" x="6360" y="3812" width="66" height="28" folded="True" text_b="0, 0, 66, 28" fold_btn_b="6346, 3820, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="3he4ptrqugbusji32up7g3b7q0" text="内核presto" x="6174" y="3812" width="106" height="28" folded="True" text_b="0, 0, 106, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="3he4ptrqugbusji32up7g3b7q0" begin_side="Left" end_side="Right" begin_rect="6347, 3812, 79, 28" end_rect="6170, 3808, 114, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="02fu7cgtt9ne7p6br2sckcjrfi" begin_side="Left" end_side="Right" begin_rect="6493, 3736, 118, 28" end_rect="6399, 3656, 31, 36" />
+                        <line target="3hpp8rqh92a2vn1uln3d9ppnca" begin_side="Left" end_side="Right" begin_rect="6493, 3736, 118, 28" end_rect="6344, 3694, 86, 36" />
+                        <line target="63vuu2k0auckelh85s6ei8v8qn" begin_side="Left" end_side="Right" begin_rect="6493, 3736, 118, 28" end_rect="6352, 3732, 78, 36" />
+                        <line target="5qgp2smvrlk0gp0euequ7i0atf" begin_side="Left" end_side="Right" begin_rect="6493, 3736, 118, 28" end_rect="6363, 3770, 67, 36" />
+                        <line target="2t404of2ebq1k4f6td9afqi6oo" begin_side="Left" end_side="Right" begin_rect="6493, 3736, 118, 28" end_rect="6356, 3808, 74, 36" />
+                      </lines>
+                    </node>
+                    <node id="3o6sm82mmndfd0ov1287on11rf" text="浏览器兼容性问题" x="6448" y="3888" width="163" height="28" folded="True" text_b="0, 0, 163, 28" fold_btn_b="6434, 3896, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4ck9nujigs8tlcqi3t2pibt3hc" text="不同浏览器有不同的内核,因为内核不同,所以有浏览器兼容性问题" x="5804" y="3850" width="564" height="28" folded="True" text_b="0, 0, 564, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="0pb7o7e95vosi54k5urergdvgm" text="移动端都是webkit内核的浏览器,所以没有兼容性问题" x="5903" y="3888" width="465" height="28" folded="True" text_b="0, 0, 465, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2n510asvjss7c5kvgo9qhp9fi6" text="主要是分辨率的问题" x="6185" y="3926" width="183" height="28" folded="True" text_b="0, 0, 183, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4ck9nujigs8tlcqi3t2pibt3hc" begin_side="Left" end_side="Right" begin_rect="6435, 3888, 176, 28" end_rect="5800, 3846, 572, 36" />
+                        <line target="0pb7o7e95vosi54k5urergdvgm" begin_side="Left" end_side="Right" begin_rect="6435, 3888, 176, 28" end_rect="5899, 3884, 473, 36" />
+                        <line target="2n510asvjss7c5kvgo9qhp9fi6" begin_side="Left" end_side="Right" begin_rect="6435, 3888, 176, 28" end_rect="6181, 3922, 191, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="10" text="什么是服务器?" x="293" y="479" width="134" height="28" folded="True" text_b="0, 0, 134, 28" fold_btn_b="279, 487, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="5n9ge86le1arg1prrbp4fq9b66" text="专门用来储存数据的计算机" x="18763" y="8849" width="242" height="28" folded="True" text_b="0, 0, 242, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="40op916ablkkbqljanl34bfsd3" text="比家用电脑配置更高的计算机" x="18744" y="8887" width="261" height="28" folded="True" text_b="0, 0, 261, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="0kgl3s5kergm8mvnl44alapaim" text="24小时不关机不断电的计算机" x="18740" y="8925" width="265" height="28" folded="True" text_b="0, 0, 265, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="11" text="访问网页的原理" x="283" y="517" width="144" height="28" folded="True" text_b="0, 0, 144, 28" fold_btn_b="269, 525, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="6srpojeageppq5a4fbh3lvgn6r" text="浏览器请求数据原理" x="14537" y="6942" width="183" height="28" folded="True" text_b="0, 0, 183, 28" fold_btn_b="14523, 6950, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="2rn5ifaav9i25ru3rndjort9ua" text="访问网页时,是有真实的,物理的文件传输的" x="14089" y="6904" width="368" height="28" folded="True" text_b="0, 0, 368, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="01fh4j9iferf3vfnn9hrg69qdu" text="平时我们之所以能感觉第二次访问速度比第一次访问速度快,是因为有缓存的" x="13800" y="6942" width="657" height="28" folded="True" text_b="0, 0, 657, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6dnlgcu1f4j5folqr0b6f2e6ia" text="网页不是一个文件,是一组文件html/css/js/png" x="14044" y="6980" width="413" height="28" folded="True" text_b="0, 0, 413, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="2rn5ifaav9i25ru3rndjort9ua" begin_side="Left" end_side="Right" begin_rect="14524, 6942, 196, 28" end_rect="14085, 6900, 376, 36" />
+                        <line target="01fh4j9iferf3vfnn9hrg69qdu" begin_side="Left" end_side="Right" begin_rect="14524, 6942, 196, 28" end_rect="13796, 6938, 665, 36" />
+                        <line target="6dnlgcu1f4j5folqr0b6f2e6ia" begin_side="Left" end_side="Right" begin_rect="14524, 6942, 196, 28" end_rect="14040, 6976, 421, 36" />
+                      </lines>
+                    </node>
+                    <node id="3n3s7h5jhq4ij1pk9qppbr9427" text="浏览器请求数据过程" x="14537" y="7075" width="183" height="28" folded="True" text_b="0, 0, 183, 28" fold_btn_b="14523, 7083, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="5k8oi2nvp5te0k64c5k26tuedq" text="浏览器根据输入的网址,进行DNS解析,找到网址的ip地址,访问服务器的80端口" x="13786" y="7018" width="671" height="28" folded="True" text_b="0, 0, 671, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5np5vvf33oupqr7l2jshpjjb7u" text="服务器接受到请求,处理请求" x="14211" y="7056" width="246" height="28" folded="True" text_b="0, 0, 246, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="7rpod83tu372fpo6ji8dth7s7c" text="服务器把浏览器要的内容发送给浏览器" x="14118" y="7094" width="339" height="28" folded="True" text_b="0, 0, 339, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1vcmip423aa63kvumqfsmsmi8i" text="浏览器解析数据的结构,呈现成网页" x="14152" y="7132" width="305" height="28" folded="True" text_b="0, 0, 305, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="5k8oi2nvp5te0k64c5k26tuedq" begin_side="Left" end_side="Right" begin_rect="14524, 7075, 196, 28" end_rect="13782, 7014, 679, 36" />
+                        <line target="5np5vvf33oupqr7l2jshpjjb7u" begin_side="Left" end_side="Right" begin_rect="14524, 7075, 196, 28" end_rect="14207, 7052, 254, 36" />
+                        <line target="7rpod83tu372fpo6ji8dth7s7c" begin_side="Left" end_side="Right" begin_rect="14524, 7075, 196, 28" end_rect="14114, 7090, 347, 36" />
+                        <line target="1vcmip423aa63kvumqfsmsmi8i" begin_side="Left" end_side="Right" begin_rect="14524, 7075, 196, 28" end_rect="14148, 7128, 313, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="12" text="什么是URL" x="324" y="555" width="103" height="28" folded="True" text_b="0, 0, 103, 28" fold_btn_b="310, 563, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="0ggdg1cvafse6adhk1dv8gno78" text="URL全称统一资源定位符.互联网上的每个资源都有一个唯一的URL地址" x="11306" y="5848" width="615" height="28" folded="True" text_b="0, 0, 615, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="1ctmbe14p0u7pdse2u5go4ev5p" text="http(协议号):www(web服务)/mail(邮箱服务).公司域名.cn(中国)/us(美国)/jp(日本)/org(非盈利).edu(教育机构)" x="10956" y="5886" width="965" height="28" folded="True" text_b="0, 0, 965, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="1f4uuj7mnprtt144uasluvvl6j" text="域名和经过DNS解析成ip地址" x="11659" y="5943" width="262" height="28" folded="True" text_b="0, 0, 262, 28" fold_btn_b="11645, 5951, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1vnbp1pdahig19p51p1vai1qkv" text="服务器IP地址相当于现实生活中的地址" x="11241" y="5924" width="338" height="28" folded="True" text_b="0, 0, 338, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="14klifegldiph10vimduiv5k7a" text="服务器端口相当于现实当中的门牌号" x="11259" y="5962" width="320" height="28" folded="True" text_b="0, 0, 320, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1vnbp1pdahig19p51p1vai1qkv" begin_side="Left" end_side="Right" begin_rect="11646, 5943, 275, 28" end_rect="11237, 5920, 346, 36" />
+                        <line target="14klifegldiph10vimduiv5k7a" begin_side="Left" end_side="Right" begin_rect="11646, 5943, 275, 28" end_rect="11255, 5958, 328, 36" />
+                      </lines>
+                    </node>
+                    <node id="085obc3jg8nd6a3ggf70snfsju" text="url后缀" x="11850" y="6019" width="71" height="28" folded="True" text_b="0, 0, 71, 28" fold_btn_b="11836, 6027, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="3uhiv6n2uju4ac6qt8de9b05sv" text="资源路径.用于告诉服务器在哪个房间" x="11445" y="6000" width="325" height="28" folded="True" text_b="0, 0, 325, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="65lt49503ig21h34quelttsd10" text="资源名称:用于告诉服务器要哪个文件" x="11445" y="6038" width="325" height="28" folded="True" text_b="0, 0, 325, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="3uhiv6n2uju4ac6qt8de9b05sv" begin_side="Left" end_side="Right" begin_rect="11837, 6019, 84, 28" end_rect="11441, 5996, 333, 36" />
+                        <line target="65lt49503ig21h34quelttsd10" begin_side="Left" end_side="Right" begin_rect="11837, 6019, 84, 28" end_rect="11441, 6034, 333, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines>
+                <line target="5s7q3or20gafkmbp8i91hmfi2s" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="332, 209, 99, 36" />
+                <line target="1e13aq79o1ksjiodgtq75442ib" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="377, 247, 54, 36" />
+                <line target="0anm4tkkrdapen8c3mines625l" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="366, 285, 65, 36" />
+                <line target="5" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="329, 323, 102, 36" />
+                <line target="6" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="318, 361, 113, 36" />
+                <line target="7" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="338, 399, 93, 36" />
+                <line target="9" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="289, 437, 142, 36" />
+                <line target="10" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="289, 475, 142, 36" />
+                <line target="11" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="279, 513, 152, 36" />
+                <line target="12" begin_side="Left" end_side="Right" begin_rect="494, 382, 63, 32" end_rect="320, 551, 111, 36" />
+              </lines>
+            </node>
+            <node id="4" text="我的" x="791" y="382" width="50" height="32" text_b="2, 2, 46, 28" />
+          </nodes>
+          <lines>
+            <line target="3" begin_side="Left" end_side="Right" begin_rect="637, 372, 74, 52" end_rect="503, 378, 58, 40" />
+            <line target="4" begin_side="Right" end_side="Left" begin_rect="637, 372, 74, 52" end_rect="787, 378, 58, 40" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
