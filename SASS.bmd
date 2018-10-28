@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>w_y_w</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="新页面 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>Black</line_color>
+        <border_color>#599764</border_color>
+        <node_back_color>#A2C8A9</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>#599764</select_color>
+        <hover_color>#599764</hover_color>
+        <link_line_color>#599764</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="SASS" x="609" y="372" width="78" height="52" text_b="12, 12, 54, 28">
+          <style>
+            <back_color>#599764</back_color>
+            <fore_color>White</fore_color>
+            <border_color>#98C8E8</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="3" text="指南" x="479" y="382" width="50" height="32" text_b="2, 2, 46, 28" fold_btn_b="465, 392, 13, 13">
+              <nodes>
+                <node id="6" text="Compass" x="307" y="327" width="92" height="28" folded="True" text_b="0, 0, 92, 28" fold_btn_b="293, 335, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="0meek6ub32udmarcgr5bsf8m6a" text="简介" x="14266" y="9462" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="14252, 9470, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="03amvm2dg52gm3ctk2tqouagm9" text="Sass的工具库" x="14061" y="9386" width="125" height="28" folded="True" text_b="0, 0, 125, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="70tv7lcmpoveee8jkn9ipstfon" text="安装" x="14140" y="9424" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="14126, 9432, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1klhps4g843i9pug9ktgpljhfo" text="sudo gem install compass" x="157788" y="91384" width="249" height="28" folded="True" text_b="0, 0, 249, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="79g6gou2p1nbmcp4rtcc20oajp" text="项目初始化" x="14081" y="9462" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="14067, 9470, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="479a402ph12hejnpih0c7a7gdk" text="compass create myproject" x="154557" y="88610" width="253" height="28" folded="True" text_b="0, 0, 253, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="20gnv92a5nhn1tgh16pkol03t0" text="编译命令" x="14101" y="9500" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="14087, 9508, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="00rinqcef33qnhh06ivvobuibt" text="compass compile --output-style compressed" x="151236" y="85836" width="426" height="28" folded="True" text_b="0, 0, 426, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="6hogm7t9mr50hgcv4v9ffg9r3m" text="自动编译" x="14101" y="9538" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="03amvm2dg52gm3ctk2tqouagm9" begin_side="Left" end_side="Right" begin_rect="14253, 9462, 59, 28" end_rect="14057, 9382, 133, 36" />
+                        <line target="70tv7lcmpoveee8jkn9ipstfon" begin_side="Left" end_side="Right" begin_rect="14253, 9462, 59, 28" end_rect="14136, 9420, 54, 36" />
+                        <line target="79g6gou2p1nbmcp4rtcc20oajp" begin_side="Left" end_side="Right" begin_rect="14253, 9462, 59, 28" end_rect="14077, 9458, 113, 36" />
+                        <line target="20gnv92a5nhn1tgh16pkol03t0" begin_side="Left" end_side="Right" begin_rect="14253, 9462, 59, 28" end_rect="14097, 9496, 93, 36" />
+                        <line target="6hogm7t9mr50hgcv4v9ffg9r3m" begin_side="Left" end_side="Right" begin_rect="14253, 9462, 59, 28" end_rect="14097, 9534, 93, 36" />
+                      </lines>
+                    </node>
+                    <node id="3mkkpu76nr14d1vj2nlq3de3qd" text="模块" x="14266" y="9576" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="14252, 9584, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="308akcq3n68ok9rkpm70mhgbbp" text="内置了5个模块" x="123095" y="61155" width="136" height="28" folded="True" text_b="0, 0, 136, 28" fold_btn_b="123081, 61163, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="41lmatgn1e65tq3bqfmp5oincb" text="reset" x="128798" y="66000" width="53" height="28" folded="True" text_b="0, 0, 53, 28" fold_btn_b="128784, 66008, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="14oom1j4h8il7ip3n57ebmvrpn" text="重置默认样式" x="145018" y="80288" width="124" height="28" folded="True" text_b="0, 0, 124, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines />
+                            </node>
+                            <node id="1ka2ss6g7cna60r8i90sdsstcp" text="css3" x="128805" y="66038" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="128791, 66046, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="01k6u02ki9lfm6r6gtsbqb2s2s" text="圆角的写法" x="140292" y="76374" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="140278, 76382, 13, 13">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                  <nodes>
+                                    <node id="6csk0cudd3ge2ee8e5tocv578k" text="@import &quot;compass/css3&quot;;&#xD;&#xA;　　.rounded {&#xD;&#xA;　　　　@include border-radius(5px);&#xD;&#xA;　　}" x="141436" y="77666" width="360" height="103" folded="True" text_b="0, 0, 360, 103">
+                                      <style>
+                                        <padding>0</padding>
+                                      </style>
+                                    </node>
+                                  </nodes>
+                                  <lines />
+                                </node>
+                              </nodes>
+                              <lines />
+                            </node>
+                            <node id="08jpv0m9ds59nd848bjdiif3lf" text="layout" x="128786" y="66076" width="65" height="28" folded="True" text_b="0, 0, 65, 28" fold_btn_b="128772, 66084, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="1ho45bm6uesg7h8t2gs3fnnc8r" text="布局功能" x="137375" y="73828" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines />
+                            </node>
+                            <node id="1obdl6q8h6shkgv2oj31oi3v48" text="typography" x="128736" y="66114" width="115" height="28" folded="True" text_b="0, 0, 115, 28" fold_btn_b="128722, 66122, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="4rmckgi6oufqc779gp7ot0f15p" text="版式功能" x="134407" y="71282" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                </node>
+                              </nodes>
+                              <lines />
+                            </node>
+                            <node id="300n26mkq1dtovmu226svp5nl9" text="utilities" x="128777" y="66152" width="74" height="28" folded="True" text_b="0, 0, 74, 28" fold_btn_b="128763, 66160, 13, 13">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                              <nodes>
+                                <node id="0n1t6kfv141ol2gs2hban2qvuv" text="不属于其他模块的功能" x="129954" y="67444" width="202" height="28" folded="True" text_b="0, 0, 202, 28" fold_btn_b="129940, 67452, 13, 13">
+                                  <style>
+                                    <padding>0</padding>
+                                  </style>
+                                  <nodes>
+                                    <node id="764f2sjph7p2oftm48kqqerjdc" text="清除浮动" x="131248" y="68736" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                                      <style>
+                                        <padding>0</padding>
+                                      </style>
+                                    </node>
+                                  </nodes>
+                                  <lines />
+                                </node>
+                              </nodes>
+                              <lines />
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="42hp6s2u05m346aurboued962u" text="使用" x="123185" y="61193" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="123171, 61201, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1s2dkdev1h2l580sn58kvc7cuo" text="@import&quot;compass/css3&quot;;" x="124322" y="62390" width="242" height="28" folded="True" text_b="0, 0, 242, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="2mk8sih52odl46omla0b4buoha" text="使用的话就是用@include方法" x="124293" y="62428" width="271" height="28" folded="True" text_b="0, 0, 271, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="5" text="基本用法" x="314" y="365" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="300, 373, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4b9o1l9lusbmedv68qpc64j3e4" text="变量" x="16587" y="10217" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="16573, 10225, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="248d5vml8h5pm4u6rbkf9ia98r" text="以$开头" x="16430" y="10198" width="77" height="28" folded="True" text_b="0, 0, 77, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="445dc4l0r46khh6ugd0i4h9ngh" text="要嵌在字符串中则用#{}包起来" x="16240" y="10236" width="267" height="28" folded="True" text_b="0, 0, 267, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="248d5vml8h5pm4u6rbkf9ia98r" begin_side="Left" end_side="Right" begin_rect="16574, 10217, 59, 28" end_rect="16426, 10194, 85, 36" />
+                        <line target="445dc4l0r46khh6ugd0i4h9ngh" begin_side="Left" end_side="Right" begin_rect="16574, 10217, 59, 28" end_rect="16236, 10232, 275, 36" />
+                      </lines>
+                    </node>
+                    <node id="2o1rnkm1940lk7riv9dplp4pul" text="计算功能" x="16548" y="10324" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="16534, 10332, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="2d2menqng3ustmh48mhh42o9ht" text="允许算式" x="16383" y="10324" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="16369, 10332, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="6l9i45mghjc5f4nd9nt856ahaj" text="body {&#xD;&#xA;　　　　margin: (14px/2);&#xD;&#xA;　　　　top: 50px + 100px;&#xD;&#xA;　　　　right: $var * 10%;&#xD;&#xA;　　}" x="16042" y="10274" width="261" height="128" folded="True" text_b="0, 0, 261, 128">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="6l9i45mghjc5f4nd9nt856ahaj" begin_side="Left" end_side="Right" begin_rect="16370, 10324, 98, 28" end_rect="16038, 10270, 269, 136" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="2d2menqng3ustmh48mhh42o9ht" begin_side="Left" end_side="Right" begin_rect="16535, 10324, 98, 28" end_rect="16379, 10320, 93, 36" />
+                      </lines>
+                    </node>
+                    <node id="3lo5oaagmrqp9d0d7g508drk4u" text="嵌套" x="16587" y="10587" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="16573, 10595, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0ic95nfb8d7me31vrm07d2gs78" text="div {&#xD;&#xA;  hi{&#xD;&#xA;    color:red;&#xD;&#xA;    }&#xD;&#xA;}" x="16389" y="10412" width="118" height="128" folded="True" text_b="0, 0, 118, 128">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="0kt44641gs6vdsl95s3stt3imt" text="属性也可以嵌套" x="16363" y="10656" width="144" height="28" folded="True" text_b="0, 0, 144, 28" fold_btn_b="16349, 10664, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="62g5ubp5hikfeadidifatqqqnb" text=" p{&#xD;&#xA;　　　　border: {&#xD;&#xA;　　　　　　color: red;&#xD;&#xA;　　　　}&#xD;&#xA;　　}" x="16065" y="10550" width="218" height="128" folded="True" text_b="0, 0, 218, 128">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="47nhiuvofj3uqn3irint901bdl" text="a {&#xD;&#xA;　　　　$:hover { color: #ffb3ff; }&#xD;&#xA;　　}&#xD;&#xA;//$表示引用父元素" x="15972" y="10688" width="311" height="103" folded="True" text_b="0, 0, 311, 103">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="62g5ubp5hikfeadidifatqqqnb" begin_side="Left" end_side="Right" begin_rect="16350, 10656, 157, 28" end_rect="16061, 10546, 226, 136" />
+                            <line target="47nhiuvofj3uqn3irint901bdl" begin_side="Left" end_side="Right" begin_rect="16350, 10656, 157, 28" end_rect="15968, 10684, 319, 111" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="0ic95nfb8d7me31vrm07d2gs78" begin_side="Left" end_side="Right" begin_rect="16574, 10587, 59, 28" end_rect="16385, 10408, 126, 136" />
+                        <line target="0kt44641gs6vdsl95s3stt3imt" begin_side="Left" end_side="Right" begin_rect="16574, 10587, 59, 28" end_rect="16359, 10652, 152, 36" />
+                      </lines>
+                    </node>
+                    <node id="6ndvorai16vnr3qi7nnidcermr" text="注释" x="16587" y="10864" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="16573, 10872, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6p6aqf8njiibpb8918585q9smp" text="/*! 　重要注释！*/&#xD;&#xA;//即使压缩也存在" x="16336" y="10801" width="171" height="53" folded="True" text_b="0, 0, 171, 53">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2tsiu320drh0hbpthbimmt933a" text="一般的/*  */" x="16395" y="10864" width="112" height="28" folded="True" text_b="0, 0, 112, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="3qrhkapljii7hiem6mica42mvb" text="//&#xD;&#xA;//只保存在sass中" x="16348" y="10902" width="159" height="53" folded="True" text_b="0, 0, 159, 53">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6p6aqf8njiibpb8918585q9smp" begin_side="Left" end_side="Right" begin_rect="16574, 10864, 59, 28" end_rect="16332, 10797, 179, 61" />
+                        <line target="2tsiu320drh0hbpthbimmt933a" begin_side="Left" end_side="Right" begin_rect="16574, 10864, 59, 28" end_rect="16391, 10860, 120, 36" />
+                        <line target="3qrhkapljii7hiem6mica42mvb" begin_side="Left" end_side="Right" begin_rect="16574, 10864, 59, 28" end_rect="16344, 10898, 167, 61" />
+                      </lines>
+                    </node>
+                    <node id="3or6rldgu2juj7a132qa7t29l9" text="继承" x="16587" y="11002" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="16573, 11010, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0kj4mvft58uoks0uo1d759i309" text=".class2 {&#xD;&#xA;　　　　@extend .class1;&#xD;&#xA;　　　　font-size:120%;&#xD;&#xA;　　}" x="16267" y="10965" width="240" height="103" folded="True" text_b="0, 0, 240, 103">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="0kj4mvft58uoks0uo1d759i309" begin_side="Left" end_side="Right" begin_rect="16574, 11002, 59, 28" end_rect="16263, 10961, 248, 111" />
+                      </lines>
+                    </node>
+                    <node id="7smnmdsvnp236ijj0mgu5cqbsv" text="定义重用" x="16548" y="11216" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="16534, 11224, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4q5g2h9606t5tnrmdvto7kr4ee" text="@mixin left {&#xD;&#xA;　　　　float: left;&#xD;&#xA;　　　　margin-left: 10px;&#xD;&#xA;　　}" x="16217" y="11078" width="251" height="103" folded="True" text_b="0, 0, 251, 103">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="0nj2ivi9mnq8buqrh9vco6cgv1" text="@include调用" x="16334" y="11216" width="134" height="28" folded="True" text_b="0, 0, 134, 28" fold_btn_b="16320, 11224, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="5qka36eciinile8an47asj3778" text="div {&#xD;&#xA;　　　　@include left;&#xD;&#xA;　　}" x="16040" y="11191" width="214" height="78" folded="True" text_b="0, 0, 214, 78">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="5qka36eciinile8an47asj3778" begin_side="Left" end_side="Right" begin_rect="16321, 11216, 147, 28" end_rect="16036, 11187, 222, 86" />
+                          </lines>
+                        </node>
+                        <node id="4f1hgaedtrdnv38gbqto2jp7j9" text="强大在于可以指定参数和缺省值" x="16187" y="11316" width="281" height="28" folded="True" text_b="0, 0, 281, 28" fold_btn_b="16173, 11324, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="5rvt14nm36p0fmlh2bit5lnjrc" text="@mixin left($value: 10px) {&#xD;&#xA;　　　　float: left;&#xD;&#xA;　　　　margin-right: $value;&#xD;&#xA;　　}" x="15826" y="11279" width="281" height="103" folded="True" text_b="0, 0, 281, 103">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="5rvt14nm36p0fmlh2bit5lnjrc" begin_side="Left" end_side="Right" begin_rect="16174, 11316, 294, 28" end_rect="15822, 11275, 289, 111" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4q5g2h9606t5tnrmdvto7kr4ee" begin_side="Left" end_side="Right" begin_rect="16535, 11216, 98, 28" end_rect="16213, 11074, 259, 111" />
+                        <line target="0nj2ivi9mnq8buqrh9vco6cgv1" begin_side="Left" end_side="Right" begin_rect="16535, 11216, 98, 28" end_rect="16330, 11212, 142, 36" />
+                        <line target="4f1hgaedtrdnv38gbqto2jp7j9" begin_side="Left" end_side="Right" begin_rect="16535, 11216, 98, 28" end_rect="16183, 11312, 289, 36" />
+                      </lines>
+                    </node>
+                    <node id="1f7hp2b0ra923oj0l0q601gve9" text="插入文件" x="16548" y="11392" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="16534, 11400, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6f6m2hept2bfm0uun0l530e20p" text="@import" x="16378" y="11392" width="90" height="28" folded="True" text_b="0, 0, 90, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6f6m2hept2bfm0uun0l530e20p" begin_side="Left" end_side="Right" begin_rect="16535, 11392, 98, 28" end_rect="16374, 11388, 98, 36" />
+                      </lines>
+                    </node>
+                    <node id="5399ro8jnkjblqtionppcgbli9" text="颜色函数" x="16548" y="11430" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="4" text="简介" x="353" y="403" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="339, 411, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4bv3jjlvm76resvvoil1ilti29" text="CSS预处理器" x="23000" y="13568" width="121" height="28" folded="True" text_b="0, 0, 121, 28" fold_btn_b="22986, 13576, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="00ct3b9ippg4djbb2g56rohpaj" text="用一种专业的编程语言,进行网页样式设计,再编译成正常的CSS文件" x="22340" y="13530" width="580" height="28" folded="True" text_b="0, 0, 580, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5rk5fqve7833tnlugkhseve0rj" text="后缀名scss" x="22817" y="13568" width="103" height="28" folded="True" text_b="0, 0, 103, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="11s71h0qigh4bj57kr2d2kgr0j" text="sass --style compressed test.sass test.css" x="22534" y="13606" width="386" height="28" folded="True" text_b="0, 0, 386, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="00ct3b9ippg4djbb2g56rohpaj" begin_side="Left" end_side="Right" begin_rect="22987, 13568, 134, 28" end_rect="22336, 13526, 588, 36" />
+                        <line target="5rk5fqve7833tnlugkhseve0rj" begin_side="Left" end_side="Right" begin_rect="22987, 13568, 134, 28" end_rect="22813, 13564, 111, 36" />
+                        <line target="11s71h0qigh4bj57kr2d2kgr0j" begin_side="Left" end_side="Right" begin_rect="22987, 13568, 134, 28" end_rect="22530, 13602, 394, 36" />
+                      </lines>
+                    </node>
+                    <node id="18v468f3tg8g50c31tf1e2ai4u" text="安装" x="23075" y="13701" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="23061, 13709, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="1o2h7itolm345a96ul93j32tc0" text="Ruby语言写的,所以要先安装Ruby" x="22692" y="13663" width="303" height="28" folded="True" text_b="0, 0, 303, 28" fold_btn_b="22678, 13671, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="4c50j3kgfbqvbs3j6qqf8lrsnm" text="使用RubyInstaller就可以了" x="22366" y="13644" width="246" height="28" folded="True" text_b="0, 0, 246, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                            <node id="6memrcker07eftlela854j0g7c" text="gem install sass" x="22459" y="13682" width="153" height="28" folded="True" text_b="0, 0, 153, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="4c50j3kgfbqvbs3j6qqf8lrsnm" begin_side="Left" end_side="Right" begin_rect="22679, 13663, 316, 28" end_rect="22362, 13640, 254, 36" />
+                            <line target="6memrcker07eftlela854j0g7c" begin_side="Left" end_side="Right" begin_rect="22679, 13663, 316, 28" end_rect="22455, 13678, 161, 36" />
+                          </lines>
+                        </node>
+                        <node id="24nsghe6ibc135a9e2udsa4jtl" text="编译风格" x="22910" y="13720" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="22896, 13728, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="3t8el1ouoqaniq5fel74j2if1k" text="一般都是compressed压缩" x="22592" y="13720" width="238" height="28" folded="True" text_b="0, 0, 238, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="3t8el1ouoqaniq5fel74j2if1k" begin_side="Left" end_side="Right" begin_rect="22897, 13720, 98, 28" end_rect="22588, 13716, 246, 36" />
+                          </lines>
+                        </node>
+                        <node id="4alt1hgatj9jki1dcme91283b9" text="可以监听改变" x="22871" y="13758" width="124" height="28" folded="True" text_b="0, 0, 124, 28" fold_btn_b="22857, 13766, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="6c94r6i3dag6glcu6p5k1h9vbn" text="sass --watch input.scss:output.css" x="22470" y="13758" width="321" height="28" folded="True" text_b="0, 0, 321, 28">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="6c94r6i3dag6glcu6p5k1h9vbn" begin_side="Left" end_side="Right" begin_rect="22858, 13758, 137, 28" end_rect="22466, 13754, 329, 36" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="1o2h7itolm345a96ul93j32tc0" begin_side="Left" end_side="Right" begin_rect="23062, 13701, 59, 28" end_rect="22688, 13659, 311, 36" />
+                        <line target="24nsghe6ibc135a9e2udsa4jtl" begin_side="Left" end_side="Right" begin_rect="23062, 13701, 59, 28" end_rect="22906, 13716, 93, 36" />
+                        <line target="4alt1hgatj9jki1dcme91283b9" begin_side="Left" end_side="Right" begin_rect="23062, 13701, 59, 28" end_rect="22867, 13754, 132, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="7" text="高级语法" x="314" y="441" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="300, 449, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="45rm78iddhrcpgb2tvsgudrq3n" text="条件语句" x="31465" y="16885" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="31451, 16893, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="0dvqv36v86qomo542ipqmkd8tb" text="@if lightness($color) &gt; 30% {&#xD;&#xA;　　　　background-color: #000;&#xD;&#xA;　　} @else {&#xD;&#xA;　　　　background-color: #fff;&#xD;&#xA;　　}" x="60146" y="27599" width="316" height="128" folded="True" text_b="0, 0, 316, 128">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="416ticcdqqn105gtt7bvu05mat" text="循环" x="31504" y="16923" width="46" height="28" folded="True" text_b="0, 0, 46, 28" fold_btn_b="31490, 16931, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="2cfii32u9bqghg75t49rqjpvnh" text="for循环" x="50215" y="25026" width="73" height="28" folded="True" text_b="0, 0, 73, 28" fold_btn_b="50201, 25034, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="5fqeb4sj38ssdvet50p6jrnchb" text="@for $i from 1 to 10 {&#xD;&#xA;　　　　.border-#{$i} {&#xD;&#xA;　　　　　　border: #{$i}px solid blue;&#xD;&#xA;　　　　}&#xD;&#xA;　　}" x="57066" y="26861" width="364" height="128" folded="True" text_b="0, 0, 364, 128">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="6g6of98kgkucv8ls3dsuvrdfoj" text="while循环" x="50193" y="25064" width="95" height="28" folded="True" text_b="0, 0, 95, 28" fold_btn_b="50179, 25072, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="1gr997v27hpj05985q58vvkgle" text="$i: 6;&#xD;&#xA;　　@while $i &gt; 0 {&#xD;&#xA;　　　　.item-#{$i} { width: 2em * $i; }&#xD;&#xA;　　　　$i: $i - 2;&#xD;&#xA;　　}" x="54131" y="26155" width="359" height="128" folded="True" text_b="0, 0, 359, 128">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="0bm14d25j89t68uu3q9pmieeor" text="each命令" x="50198" y="25102" width="90" height="28" folded="True" text_b="0, 0, 90, 28" fold_btn_b="50184, 25110, 13, 13">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                          <nodes>
+                            <node id="4thmfuuj1r57oj83tcn4ubt1qn" text="@each $member in a, b, c, d {&#xD;&#xA;　　　　.#{$member} {&#xD;&#xA;　　　　　　background-image: url(&quot;/image/#{$member}.jpg&quot;);&#xD;&#xA;　　　　}&#xD;&#xA;　　}" x="50978" y="25449" width="599" height="128" folded="True" text_b="0, 0, 599, 128">
+                              <style>
+                                <padding>0</padding>
+                              </style>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="1juck99p89qc8l7snbo14jg4d4" text="自定义函数" x="31445" y="16961" width="105" height="28" folded="True" text_b="0, 0, 105, 28" fold_btn_b="31431, 16969, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="2smd80b4sh2dhu05ep2h34j01s" text="@function double($n) {&#xD;&#xA;　　　　@return $n * 2;&#xD;&#xA;　　}&#xD;&#xA;　　#sidebar {&#xD;&#xA;　　　　width: double(5px);&#xD;&#xA;　　}" x="47883" y="24308" width="266" height="153" folded="True" text_b="0, 0, 266, 153">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines>
+                <line target="6" begin_side="Left" end_side="Right" begin_rect="466, 382, 63, 32" end_rect="303, 323, 100, 36" />
+                <line target="5" begin_side="Left" end_side="Right" begin_rect="466, 382, 63, 32" end_rect="310, 361, 93, 36" />
+                <line target="4" begin_side="Left" end_side="Right" begin_rect="466, 382, 63, 32" end_rect="349, 399, 54, 36" />
+                <line target="7" begin_side="Left" end_side="Right" begin_rect="466, 382, 63, 32" end_rect="310, 437, 93, 36" />
+              </lines>
+            </node>
+            <node id="2" text="我的" x="767" y="382" width="50" height="32" text_b="2, 2, 46, 28" />
+          </nodes>
+          <lines>
+            <line target="3" begin_side="Left" end_side="Right" begin_rect="609, 372, 78, 52" end_rect="475, 378, 58, 40" />
+            <line target="2" begin_side="Right" end_side="Left" begin_rect="609, 372, 78, 52" end_rect="763, 378, 58, 40" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

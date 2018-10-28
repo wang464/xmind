@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>w_y_w</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">False</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="新页面 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>Black</line_color>
+        <border_color>#599764</border_color>
+        <node_back_color>#A2C8A9</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>#599764</select_color>
+        <hover_color>#599764</hover_color>
+        <link_line_color>#599764</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="中心主题" x="582" y="372" width="109" height="52" text_b="12, 12, 85, 28">
+          <style>
+            <back_color>#599764</back_color>
+            <fore_color>White</fore_color>
+            <border_color>#98C8E8</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="指南" x="452" y="382" width="50" height="32" text_b="2, 2, 46, 28" fold_btn_b="438, 392, 13, 13">
+              <nodes>
+                <node id="42" text="盒模型" x="302" y="277" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="288, 287, 13, 13">
+                  <nodes>
+                    <node id="43" text="块" x="247906" y="122812" width="30" height="32" folded="True" text_b="2, 2, 26, 28" fold_btn_b="247892, 122822, 13, 13">
+                      <nodes>
+                        <node id="44" text="只有块有宽高" x="247698" y="122812" width="128" height="32" folded="True" text_b="2, 2, 124, 28" />
+                      </nodes>
+                      <lines>
+                        <line target="44" begin_side="Left" end_side="Right" begin_rect="247893, 122812, 43, 32" end_rect="247694, 122808, 136, 40" />
+                      </lines>
+                    </node>
+                    <node id="45" text="行内" x="247886" y="122854" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="247872, 122864, 13, 13">
+                      <nodes>
+                        <node id="53" text="用于修改局部样式" x="247639" y="122854" width="167" height="32" folded="True" text_b="2, 2, 163, 28" />
+                      </nodes>
+                      <lines>
+                        <line target="53" begin_side="Left" end_side="Right" begin_rect="247873, 122854, 63, 32" end_rect="247635, 122850, 175, 40" />
+                      </lines>
+                    </node>
+                    <node id="50" text="互相转化" x="247847" y="122896" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="247833, 122906, 13, 13">
+                      <nodes>
+                        <node id="51" text="display:block转化为块级" x="270505" y="134038" width="230" height="32" folded="True" text_b="2, 2, 226, 28" />
+                        <node id="52" text="display:inline-block转化为行内块级" x="270407" y="134080" width="328" height="32" folded="True" text_b="2, 2, 324, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="46" text="背景" x="322" y="319" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="308, 329, 13, 13">
+                  <nodes>
+                    <node id="56" text="颜色单位" x="232294" y="114917" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="232280, 114927, 13, 13">
+                      <nodes>
+                        <node id="57" text="RGB" x="232164" y="114884" width="50" height="32" folded="True" text_b="2, 2, 46, 28" />
+                        <node id="58" text="rgba&#xD;&#xA;a表示透明度1是不透明0是完全透明" x="231895" y="114926" width="319" height="57" folded="True" text_b="2, 2, 315, 53" />
+                      </nodes>
+                      <lines>
+                        <line target="57" begin_side="Left" end_side="Right" begin_rect="232281, 114917, 102, 32" end_rect="232160, 114880, 58, 40" />
+                        <line target="58" begin_side="Left" end_side="Right" begin_rect="232281, 114917, 102, 32" end_rect="231891, 114922, 327, 65" />
+                      </lines>
+                    </node>
+                    <node id="48" text="背景图片" x="232294" y="114993" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="232280, 115003, 13, 13">
+                      <nodes>
+                        <node id="49" text="repeat-x 水平平铺&#xD;&#xA;repeat-y 垂直平铺&#xD;&#xA;no-repeat 不平铺&#xD;&#xA;background: #ccc url(logo.gif) repeat-x&#xD;&#xA;background: #ccc url(logo.gif) no-repeat left center" x="321645" y="158287" width="491" height="132" folded="True" text_b="2, 2, 487, 128" />
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="59" text="文本" x="322" y="361" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="308, 371, 13, 13">
+                  <nodes>
+                    <node id="60" text="文本缩进&#xD;&#xA;行首空格" x="105881" y="50324" width="89" height="57" folded="True" text_b="2, 2, 85, 53" fold_btn_b="105867, 50346, 13, 13">
+                      <nodes>
+                        <node id="61" text="text-indent: 2em;   ti2e  缩进两个字符" x="218291" y="107805" width="353" height="32" folded="True" text_b="2, 2, 349, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="62" text="文本左对齐" x="105861" y="50391" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="105847, 50401, 13, 13">
+                      <nodes>
+                        <node id="63" text="text-alight:left;" x="177806" y="88344" width="148" height="32" folded="True" text_b="2, 2, 144, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="64" text="文本右对齐" x="105861" y="50433" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="105847, 50443, 13, 13">
+                      <nodes>
+                        <node id="65" text="text-alight:right;" x="179473" y="89180" width="162" height="32" folded="True" text_b="2, 2, 158, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="66" text="文本居中" x="105881" y="50475" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="105867, 50485, 13, 13">
+                      <nodes>
+                        <node id="67" text="text-alight:center;" x="175281" y="87237" width="176" height="32" folded="True" text_b="2, 2, 172, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="68" text="添加下划线" x="105861" y="50517" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="105847, 50527, 13, 13">
+                      <nodes>
+                        <node id="69" text="text-decoration:underline;" x="120103" y="58754" width="254" height="32" folded="True" text_b="2, 2, 250, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="70" text="添加删除线" x="105861" y="50559" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="105847, 50569, 13, 13">
+                      <nodes>
+                        <node id="71" text="text-decoration:line-through;" x="118270" y="58000" width="283" height="32" folded="True" text_b="2, 2, 279, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="72" text="添加上划线" x="105861" y="50601" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="105847, 50611, 13, 13">
+                      <nodes>
+                        <node id="73" text="text-decoration:overline;" x="116519" y="57246" width="240" height="32" folded="True" text_b="2, 2, 236, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="74" text="去掉下划线&#xD;&#xA;a链接下划线去掉" x="105811" y="50643" width="159" height="57" folded="True" text_b="2, 2, 155, 53" fold_btn_b="105797, 50665, 13, 13">
+                      <nodes>
+                        <node id="75" text="text-decoration:none;" x="114712" y="56504" width="213" height="32" folded="True" text_b="2, 2, 209, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="76" text="字体" x="322" y="403" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="308, 413, 13, 13">
+                  <nodes>
+                    <node id="81" text="字体样式" x="1099" y="675" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="1085, 685, 13, 13">
+                      <nodes>
+                        <node id="79" text="font-style:italic;&#xD;&#xA;斜体" x="865" y="629" width="154" height="57" folded="True" text_b="2, 2, 150, 53" />
+                        <node id="80" text="font-style:normal;&#xD;&#xA;恢复正常" x="842" y="696" width="177" height="57" folded="True" text_b="2, 2, 173, 53" />
+                      </nodes>
+                      <lines>
+                        <line target="79" begin_side="Left" end_side="Right" begin_rect="1086, 675, 102, 32" end_rect="861, 625, 162, 65" />
+                        <line target="80" begin_side="Left" end_side="Right" begin_rect="1086, 675, 102, 32" end_rect="838, 692, 185, 65" />
+                      </lines>
+                    </node>
+                    <node id="82" text="字体粗细" x="1099" y="805" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="1085, 815, 13, 13">
+                      <nodes>
+                        <node id="85" text="加粗" x="969" y="763" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="955, 773, 13, 13">
+                          <nodes>
+                            <node id="86" text="font-weight:bold;" x="715" y="763" width="174" height="32" folded="True" text_b="2, 2, 170, 28" />
+                          </nodes>
+                          <lines>
+                            <line target="86" begin_side="Left" end_side="Right" begin_rect="956, 763, 63, 32" end_rect="711, 759, 182, 40" />
+                          </lines>
+                        </node>
+                        <node id="87" text="加粗*2" x="949" y="805" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="935, 815, 13, 13">
+                          <nodes>
+                            <node id="88" text="font-weight:bolder;" x="677" y="805" width="192" height="32" folded="True" text_b="2, 2, 188, 28" />
+                          </nodes>
+                          <lines>
+                            <line target="88" begin_side="Left" end_side="Right" begin_rect="936, 805, 83, 32" end_rect="673, 801, 200, 40" />
+                          </lines>
+                        </node>
+                        <node id="89" text="加细" x="969" y="847" width="50" height="32" folded="True" text_b="2, 2, 46, 28" fold_btn_b="955, 857, 13, 13">
+                          <nodes>
+                            <node id="90" text="font-weight:lighter;" x="697" y="847" width="192" height="32" folded="True" text_b="2, 2, 188, 28" />
+                          </nodes>
+                          <lines>
+                            <line target="90" begin_side="Left" end_side="Right" begin_rect="956, 847, 63, 32" end_rect="693, 843, 200, 40" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="85" begin_side="Left" end_side="Right" begin_rect="1086, 805, 102, 32" end_rect="965, 759, 58, 40" />
+                        <line target="87" begin_side="Left" end_side="Right" begin_rect="1086, 805, 102, 32" end_rect="945, 801, 78, 40" />
+                        <line target="89" begin_side="Left" end_side="Right" begin_rect="1086, 805, 102, 32" end_rect="965, 843, 58, 40" />
+                      </lines>
+                    </node>
+                    <node id="83" text="字体大小" x="1099" y="889" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="1085, 899, 13, 13">
+                      <nodes>
+                        <node id="93" text="font-size: 30px;" x="866" y="889" width="153" height="32" folded="True" text_b="2, 2, 149, 28" />
+                      </nodes>
+                      <lines>
+                        <line target="93" begin_side="Left" end_side="Right" begin_rect="1086, 889, 102, 32" end_rect="862, 885, 161, 40" />
+                      </lines>
+                    </node>
+                    <node id="84" text="选择不同的字体优先级" x="982" y="952" width="206" height="32" folded="True" text_b="2, 2, 202, 28" fold_btn_b="968, 962, 13, 13">
+                      <nodes>
+                        <node id="91" text="font-family" x="787" y="931" width="115" height="32" folded="True" text_b="2, 2, 111, 28" />
+                        <node id="92" text="英文字体放在中文字体前面" x="656" y="973" width="246" height="32" folded="True" text_b="2, 2, 242, 28" />
+                      </nodes>
+                      <lines>
+                        <line target="91" begin_side="Left" end_side="Right" begin_rect="969, 952, 219, 32" end_rect="783, 927, 123, 40" />
+                        <line target="92" begin_side="Left" end_side="Right" begin_rect="969, 952, 219, 32" end_rect="652, 969, 254, 40" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="3" text="选择器" x="302" y="445" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="288, 455, 13, 13">
+                  <nodes>
+                    <node id="4" text="选择ID" x="111125" y="53411" width="71" height="32" folded="True" text_b="2, 2, 67, 28" fold_btn_b="111111, 53421, 13, 13">
+                      <nodes>
+                        <node id="5" text="#APP" x="133140" y="64385" width="61" height="32" folded="True" text_b="2, 2, 57, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="6" text="选择类" x="111126" y="53453" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="111112, 53463, 13, 13">
+                      <nodes>
+                        <node id="7" text=".app" x="133151" y="64427" width="51" height="32" folded="True" text_b="2, 2, 47, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="8" text="选择标签" x="111107" y="53495" width="89" height="32" folded="True" text_b="2, 2, 85, 28" fold_btn_b="111093, 53505, 13, 13">
+                      <nodes>
+                        <node id="9" text="同时选择两个标签&#xD;&#xA;div,p { }" x="133016" y="64469" width="167" height="57" folded="True" text_b="2, 2, 163, 53" />
+                        <node id="10" text="p" x="133160" y="64536" width="23" height="32" folded="True" text_b="2, 2, 19, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="11" text="选择某个下面的某个" x="111009" y="53537" width="187" height="32" folded="True" text_b="2, 2, 183, 28" fold_btn_b="110995, 53547, 13, 13">
+                      <nodes>
+                        <node id="12" text="div p { }" x="133003" y="64578" width="82" height="32" folded="True" text_b="2, 2, 78, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="13" text="选择某个中的某个" x="111029" y="53579" width="167" height="32" folded="True" text_b="2, 2, 163, 28" fold_btn_b="111015, 53589, 13, 13">
+                      <nodes>
+                        <node id="14" text="div&gt;p { } &#xD;&#xA;表示选择div里面的p" x="132917" y="64620" width="188" height="57" folded="True" text_b="2, 2, 184, 53" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="15" text="选择两种中间的内容" x="111009" y="53621" width="187" height="32" folded="True" text_b="2, 2, 183, 28" fold_btn_b="110995, 53631, 13, 13">
+                      <nodes>
+                        <node id="16" text="div+p&#xD;&#xA;表示选择div和p之间的所有内容" x="132799" y="64687" width="286" height="57" folded="True" text_b="2, 2, 282, 53" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="17" text="选择某个具体的属性" x="111009" y="53663" width="187" height="32" folded="True" text_b="2, 2, 183, 28" fold_btn_b="110995, 53673, 13, 13">
+                      <nodes>
+                        <node id="18" text="a[target]&#xD;&#xA;选择所有a里面包含target这个属性的&#xD;&#xA;a[target=_blank]&#xD;&#xA;也可以声明具体的属性值" x="132753" y="64754" width="332" height="107" folded="True" text_b="2, 2, 328, 103" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="20" text="选择包含某个对象的" x="111009" y="53705" width="187" height="32" folded="True" text_b="2, 2, 183, 28" fold_btn_b="110995, 53715, 13, 13">
+                      <nodes>
+                        <node id="21" text=" [title~=flower]&#xD;&#xA;其中flower必须是一个前后有空格隔开的单词," x="132678" y="64871" width="407" height="57" folded="True" text_b="2, 2, 403, 53" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="22" text="没有访问过的链接" x="111029" y="53747" width="167" height="32" folded="True" text_b="2, 2, 163, 28" fold_btn_b="111015, 53757, 13, 13">
+                      <nodes>
+                        <node id="23" text="a:link" x="133046" y="64938" width="59" height="32" folded="True" text_b="2, 2, 55, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="24" text="访问过的链接" x="111068" y="53789" width="128" height="32" folded="True" text_b="2, 2, 124, 28" fold_btn_b="111054, 53799, 13, 13">
+                      <nodes>
+                        <node id="25" text="a:visited" x="133057" y="64980" width="87" height="32" folded="True" text_b="2, 2, 83, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="26" text="鼠标悬停&#xD;&#xA;鼠标点击" x="111107" y="53831" width="89" height="57" folded="True" text_b="2, 2, 85, 53" fold_btn_b="111093, 53853, 13, 13">
+                      <nodes>
+                        <node id="27" text="a:hover" x="133103" y="65034" width="80" height="32" folded="True" text_b="2, 2, 76, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="28" text="输入时变色" x="111087" y="53898" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="111073, 53908, 13, 13">
+                      <nodes>
+                        <node id="29" text="input:focus" x="133048" y="65089" width="115" height="32" folded="True" text_b="2, 2, 111, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="30" text="第一个字母" x="111087" y="53940" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="111073, 53950, 13, 13">
+                      <nodes>
+                        <node id="31" text=":first-letter" x="133054" y="65131" width="109" height="32" folded="True" text_b="2, 2, 105, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="32" text="第一行" x="111126" y="53982" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="111112, 53992, 13, 13">
+                      <nodes>
+                        <node id="33" text=":first-line" x="133109" y="65173" width="93" height="32" folded="True" text_b="2, 2, 89, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="34" text="第一个后代" x="111087" y="54024" width="109" height="32" folded="True" text_b="2, 2, 105, 28" fold_btn_b="111073, 54034, 13, 13">
+                      <nodes>
+                        <node id="35" text=":first-child" x="133058" y="65215" width="105" height="32" folded="True" text_b="2, 2, 101, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="36" text="在文本前插入" x="111068" y="54066" width="128" height="32" folded="True" text_b="2, 2, 124, 28" fold_btn_b="111054, 54076, 13, 13">
+                      <nodes>
+                        <node id="37" text="p:before&#xD;&#xA;{content:&quot;- Remember this&quot;;} " x="132865" y="65257" width="279" height="57" folded="True" text_b="2, 2, 275, 53" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="38" text="在文本后插入" x="111068" y="54108" width="128" height="32" folded="True" text_b="2, 2, 124, 28" fold_btn_b="111054, 54118, 13, 13">
+                      <nodes>
+                        <node id="39" text="p:after&#xD;&#xA;{content:&quot;- Remember this&quot;;} " x="132865" y="65324" width="279" height="57" folded="True" text_b="2, 2, 275, 53" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="40" text="剩下没写的选择器" x="111029" y="54150" width="167" height="32" folded="True" text_b="2, 2, 163, 28" fold_btn_b="111015, 54160, 13, 13">
+                      <nodes>
+                        <node id="41" text="https://www.runoob.com/cssref/css-selectors.html" x="132623" y="65391" width="482" height="32" folded="True" text_b="2, 2, 478, 28" />
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="54" text="优先级" x="302" y="487" width="70" height="32" folded="True" text_b="2, 2, 66, 28" fold_btn_b="288, 497, 13, 13">
+                  <nodes>
+                    <node id="55" text="!important&#xD;&#xA;最高优先级" x="249476" y="123805" width="110" height="57" folded="True" text_b="2, 2, 106, 53" />
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines>
+                <line target="42" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="298, 273, 78, 40" />
+                <line target="46" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="318, 315, 58, 40" />
+                <line target="59" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="318, 357, 58, 40" />
+                <line target="76" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="318, 399, 58, 40" />
+                <line target="3" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="298, 441, 78, 40" />
+                <line target="54" begin_side="Left" end_side="Right" begin_rect="439, 382, 63, 32" end_rect="298, 483, 78, 40" />
+              </lines>
+            </node>
+            <node id="19" text="我的" x="771" y="382" width="50" height="32" text_b="2, 2, 46, 28" />
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="582, 372, 109, 52" end_rect="448, 378, 58, 40" />
+            <line target="19" begin_side="Right" end_side="Left" begin_rect="582, 372, 109, 52" end_rect="767, 378, 58, 40" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

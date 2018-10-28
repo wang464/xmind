@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>w_y_w</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">False</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="新页面 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>Black</line_color>
+        <border_color>#599764</border_color>
+        <node_back_color>#A2C8A9</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>#599764</select_color>
+        <hover_color>#599764</hover_color>
+        <link_line_color>#599764</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="bootstrap" x="612" y="372" width="123" height="52" text_b="12, 12, 99, 28">
+          <style>
+            <back_color>#599764</back_color>
+            <fore_color>White</fore_color>
+            <border_color>#98C8E8</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="指南" x="482" y="382" width="50" height="32" text_b="2, 2, 46, 28" fold_btn_b="468, 392, 13, 13">
+              <nodes>
+                <node id="1" text="Bootstrap 插件 " x="259" y="327" width="143" height="28" folded="True" text_b="0, 0, 143, 28" fold_btn_b="245, 335, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="4lbs57bpvhe2g3vj7i12kbvs1g" text="引用方式" x="14859" y="5671" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="14845, 5679, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6e326mqu7s1kheq44brtpbnk49" text="单独引用" x="14694" y="5652" width="85" height="28" folded="True" text_b="0, 0, 85, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="45li908se24r125pnhopske8cv" text="编译（同时）引用：使用 bootstrap.js 或压缩版的 bootstrap.min.js" x="14180" y="5690" width="599" height="28" folded="True" text_b="0, 0, 599, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6e326mqu7s1kheq44brtpbnk49" begin_side="Left" end_side="Right" begin_rect="14846, 5671, 98, 28" end_rect="14690, 5648, 93, 36" />
+                        <line target="45li908se24r125pnhopske8cv" begin_side="Left" end_side="Right" begin_rect="14846, 5671, 98, 28" end_rect="14176, 5686, 607, 36" />
+                      </lines>
+                    </node>
+                    <node id="1uif6k9u3dp70csi5nsulp9a74" text="Bootstrap 模态框（Modal）插件" x="14643" y="5728" width="301" height="28" folded="True" text_b="0, 0, 301, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="3vafgupr6oip488ameimlk5j02" text="Bootstrap 下拉菜单（Dropdown）插件" x="14583" y="5766" width="361" height="28" folded="True" text_b="0, 0, 361, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="78ah7borb47vurdj049fsupc69" text="Bootstrap 滚动监听（Scrollspy）插件" x="14600" y="5804" width="344" height="28" folded="True" text_b="0, 0, 344, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="46a3fqb8i4esm266ubpd8edog9" text="Bootstrap 提示工具（Tooltip）插件" x="14617" y="5842" width="327" height="28" folded="True" text_b="0, 0, 327, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="37u8621da4vnbopeevld7sch26" text="Bootstrap 标签页（Tab）插件" x="14668" y="5880" width="276" height="28" folded="True" text_b="0, 0, 276, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="3hg00gc8i7fdnqre6jbhdqr9kv" text="Bootstrap 轮播（Carousel）插件" x="14641" y="5918" width="303" height="28" folded="True" text_b="0, 0, 303, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="3fj8nhoc86n0fmm9n0hb1m4cq3" text="Bootstrap 折叠（Collapse）插件" x="14643" y="5956" width="301" height="28" folded="True" text_b="0, 0, 301, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="1lpau8332noeu11cn8hicsh4uc" text="Bootstrap 弹出框（Popover）插件" x="14625" y="5994" width="319" height="28" folded="True" text_b="0, 0, 319, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="2" text="Bootstrap 排版" x="259" y="365" width="143" height="28" folded="True" text_b="0, 0, 143, 28" fold_btn_b="245, 373, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="7kej45llhn87t2p4d11csme8c9" text="可以创建标题、段落、列表及其他内联元素" x="1450" y="857" width="379" height="28" folded="True" text_b="0, 0, 379, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="11k667gv2dle2t00bcnu94ir7g" text="一些特殊标签" x="1705" y="990" width="124" height="28" folded="True" text_b="0, 0, 124, 28" fold_btn_b="1691, 998, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="5tbt72p3dsgjk3nn6h25g9ppvf" text="1、内联子标题\&lt;small&gt; 或.small " x="1325" y="895" width="300" height="28" folded="True" text_b="0, 0, 300, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="4nvt74j29l8m98dumnpp6k8ocv" text="引导主体副本 添加 class=&quot;lead" x="1343" y="933" width="282" height="28" folded="True" text_b="0, 0, 282, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="22ep20kr527fc38kmnv9s99h5f" text="缩写&lt;abbr&gt;" x="1507" y="971" width="118" height="28" folded="True" text_b="0, 0, 118, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="1avsmuqcuqe6a5vur80ae1e0kt" text="强调&lt;strong&gt;" x="1489" y="1009" width="136" height="28" folded="True" text_b="0, 0, 136, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="772vltd7k835kj9ttet1okei2g" text="地址（Address）" x="1464" y="1047" width="161" height="28" folded="True" text_b="0, 0, 161, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6ldlau4dief6ba2qducd9dc1fj" text="引用（Blockquote）" x="1434" y="1085" width="191" height="28" folded="True" text_b="0, 0, 191, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="5tbt72p3dsgjk3nn6h25g9ppvf" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1321, 891, 308, 36" />
+                        <line target="4nvt74j29l8m98dumnpp6k8ocv" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1339, 929, 290, 36" />
+                        <line target="22ep20kr527fc38kmnv9s99h5f" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1503, 967, 126, 36" />
+                        <line target="1avsmuqcuqe6a5vur80ae1e0kt" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1485, 1005, 144, 36" />
+                        <line target="772vltd7k835kj9ttet1okei2g" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1460, 1043, 169, 36" />
+                        <line target="6ldlau4dief6ba2qducd9dc1fj" begin_side="Left" end_side="Right" begin_rect="1692, 990, 137, 28" end_rect="1430, 1081, 199, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="3" text="网格系统" x="317" y="403" width="85" height="28" folded="True" text_b="0, 0, 85, 28" fold_btn_b="303, 411, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="66h0fl8mc2euecd61c634v8jrh" text="col 针对所有设备" x="1730" y="1161" width="157" height="28" folded="True" text_b="0, 0, 157, 28" fold_btn_b="1716, 1169, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="6h58dcu0588s3vl6m13j6d5foh" text="可以自动布局." x="1521" y="1123" width="129" height="28" folded="True" text_b="0, 0, 129, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="2679r70c4j8fall7plsc89eq6i" text="如果我用的话, 我可能使用这个最多." x="1334" y="1161" width="316" height="28" folded="True" text_b="0, 0, 316, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="5u4k5ch8onhuaaa42pa72g62gd" text="可以加序号, 也可以不加. 不加的话, 自适应." x="1274" y="1199" width="376" height="28" folded="True" text_b="0, 0, 376, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="6h58dcu0588s3vl6m13j6d5foh" begin_side="Left" end_side="Right" begin_rect="1717, 1161, 170, 28" end_rect="1517, 1119, 137, 36" />
+                        <line target="2679r70c4j8fall7plsc89eq6i" begin_side="Left" end_side="Right" begin_rect="1717, 1161, 170, 28" end_rect="1330, 1157, 324, 36" />
+                        <line target="5u4k5ch8onhuaaa42pa72g62gd" begin_side="Left" end_side="Right" begin_rect="1717, 1161, 170, 28" end_rect="1270, 1195, 384, 36" />
+                      </lines>
+                    </node>
+                    <node id="4mpe5c7bsq5kqbeupo2k0fa1ab" text="col-sm 平板" x="1772" y="1256" width="115" height="28" folded="True" text_b="0, 0, 115, 28" fold_btn_b="1758, 1264, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="30vpskhp3f0q1kc796ktc2n3ba" text="常用" x="1646" y="1237" width="46" height="28" folded="True" text_b="0, 0, 46, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="6ifbua1u84hl1ep2r6ee0a1knc" text="可以加序号, 也可以不加. 不加的话, 自适应." x="1316" y="1275" width="376" height="28" folded="True" text_b="0, 0, 376, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="30vpskhp3f0q1kc796ktc2n3ba" begin_side="Left" end_side="Right" begin_rect="1759, 1256, 128, 28" end_rect="1642, 1233, 54, 36" />
+                        <line target="6ifbua1u84hl1ep2r6ee0a1knc" begin_side="Left" end_side="Right" begin_rect="1759, 1256, 128, 28" end_rect="1312, 1271, 384, 36" />
+                      </lines>
+                    </node>
+                    <node id="3uf21g3v2s3ikgikng9c3m7bmn" text="col-md 桌面显示器" x="1710" y="1332" width="177" height="28" folded="True" text_b="0, 0, 177, 28" fold_btn_b="1696, 1340, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="4tun1lg3kuae7o2bs8a10pqqro" text="常用" x="1584" y="1313" width="46" height="28" folded="True" text_b="0, 0, 46, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="7gvqljk9ebc2ecfj99r9dcg152" text="可以加序号, 也可以不加. 不加的话, 自适应." x="1254" y="1351" width="376" height="28" folded="True" text_b="0, 0, 376, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="4tun1lg3kuae7o2bs8a10pqqro" begin_side="Left" end_side="Right" begin_rect="1697, 1332, 190, 28" end_rect="1580, 1309, 54, 36" />
+                        <line target="7gvqljk9ebc2ecfj99r9dcg152" begin_side="Left" end_side="Right" begin_rect="1697, 1332, 190, 28" end_rect="1250, 1347, 384, 36" />
+                      </lines>
+                    </node>
+                    <node id="6auhdrin11mtmnu3g422tgo0o3" text="col-lg  大桌面显示器" x="1698" y="1389" width="189" height="28" folded="True" text_b="0, 0, 189, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                    <node id="4kvvqv11rtif8359v95bmvai3v" text="col-xl 超级大的桌面显示器" x="1647" y="1427" width="240" height="28" folded="True" text_b="0, 0, 240, 28">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="4" text="容器类" x="336" y="441" width="66" height="28" folded="True" text_b="0, 0, 66, 28" fold_btn_b="322, 449, 13, 13">
+                  <style>
+                    <padding>0</padding>
+                  </style>
+                  <nodes>
+                    <node id="3pbu5g7et3vm1qtncrvuijk4o1" text="container" x="1811" y="1484" width="95" height="28" folded="True" text_b="0, 0, 95, 28" fold_btn_b="1797, 1492, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="3otdl1cmka3gvjf2b8fihkavke" text="响应式" x="1665" y="1465" width="66" height="28" folded="True" text_b="0, 0, 66, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                        <node id="7ci9pcafrs1d0msrueik0b9rlr" text="常用第一个" x="1626" y="1503" width="105" height="28" folded="True" text_b="0, 0, 105, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="3otdl1cmka3gvjf2b8fihkavke" begin_side="Left" end_side="Right" begin_rect="1798, 1484, 108, 28" end_rect="1661, 1461, 74, 36" />
+                        <line target="7ci9pcafrs1d0msrueik0b9rlr" begin_side="Left" end_side="Right" begin_rect="1798, 1484, 108, 28" end_rect="1622, 1499, 113, 36" />
+                      </lines>
+                    </node>
+                    <node id="68uc6h0fl184c2etne4hoa4ef8" text="container-fluid" x="1761" y="1541" width="145" height="28" folded="True" text_b="0, 0, 145, 28" fold_btn_b="1747, 1549, 13, 13">
+                      <style>
+                        <padding>0</padding>
+                      </style>
+                      <nodes>
+                        <node id="3rondcf22035jlg9r3u1mcihud" text="百分百占满. " x="1572" y="1541" width="109" height="28" folded="True" text_b="0, 0, 109, 28">
+                          <style>
+                            <padding>0</padding>
+                          </style>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="3rondcf22035jlg9r3u1mcihud" begin_side="Left" end_side="Right" begin_rect="1748, 1541, 158, 28" end_rect="1568, 1537, 117, 36" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines>
+                <line target="1" begin_side="Left" end_side="Right" begin_rect="469, 382, 63, 32" end_rect="255, 323, 151, 36" />
+                <line target="2" begin_side="Left" end_side="Right" begin_rect="469, 382, 63, 32" end_rect="255, 361, 151, 36" />
+                <line target="3" begin_side="Left" end_side="Right" begin_rect="469, 382, 63, 32" end_rect="313, 399, 93, 36" />
+                <line target="4" begin_side="Left" end_side="Right" begin_rect="469, 382, 63, 32" end_rect="332, 437, 74, 36" />
+              </lines>
+            </node>
+            <node id="3" text="我的" x="815" y="382" width="50" height="32" text_b="2, 2, 46, 28" />
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="612, 372, 123, 52" end_rect="478, 378, 58, 40" />
+            <line target="3" begin_side="Right" end_side="Left" begin_rect="612, 372, 123, 52" end_rect="811, 378, 58, 40" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
